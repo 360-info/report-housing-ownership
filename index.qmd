@@ -1,33 +1,124 @@
 ---
-title: "Container test"
+title: "Housing ownership"
 author: "James Goldie"
 format: html
 ---
 
-I love containers! So useful. Can we do R stuff in the rocker container? Let's see:
+```{r}
+#| label: setup
+
+library(tidyverse)
+library(readxl)
+library(here)
+```
+
+There're a few interesting sheets in this workbook. All of the indicators are annual and by country:
+
+- `HM1.3.A3` is the share of home-owner households in each income quintile (regardless of whether the home owned is mortgaged or owned outright). It can be used to answer questions like, "Are the people with the least income houses less than they used to?"
+- `HM1.3.A4` breaks proportions down across _every_ type of housing tenure, not just the two types of home ownership. If the previous indicator shows a change in home ownership within an income bracket, this indicator could tell us whether they are going to rents or to unknown tenure. If it doesn't show a change, this could tell us whether mortgages are shifting to full ownership, or vice-versa.
+- `HM1.3.A5` reframes the proportions from - `HM1.3.A4`: instead of the proportion of tenure types within an income bracket, it shows the proportion of income brackets within a tenure type. 
 
 ```{r}
-#| label: rtest
-
-library(tibble)
-
-mydata <- tibble(x = 1:10, y = x^2)
-ojs_define(mydata)
+#| label: download
+oecd_tenure_path <- here("data", "oced-housing-tenture.xlsx")
+download.file(
+  "https://www.oecd.org/els/family/HM1.3-Housing-tenures.xlsx",
+  oecd_tenure_path)
 ```
 
-And maybe an Observable chart too?
+Let's focus on `HM1.3.A4` first. This will allow us to focus on a particular income bracket and see how its housing tenures are changing.
 
-```{ojs}
-//| label: somechart
+This sheet needs some cleanup, as it has a grouped header (income quintile and then year). We'll import that separately and add the merged headers back in once we have the body.
 
-Plot.plot({
-  marks: [
-    Plot.barY(transpose(mydata), {
-      x: "x",
-      y: "y"
-    })
-  ]
-})
+```{r}
+#| label: import-tenure-by-income
+
+# first, we'll load the grouped header, fuse the merged cells and glue it all
+oecd_tenure_path |>
+  read_excel(sheet = "HM1.3.A4", skip = 2, n_max = 2, col_names = FALSE) |>
+  t() |>
+  as_tibble() |>
+  slice(-(1:2)) |>
+  fill(V1, .direction = "down") |>
+  filter(!is.na(V2)) |>
+  mutate(merged_header = paste(V1, V2, sep = "_")) ->
+tenure_by_income_header
+
+# now import the spreadsheet proper, dropping the blank columns (which come in
+# as logical) and reconstructing the header. then we can pivot the quintile and
+# year back out
+# NOTE - needs adjustment if number of countries changes in the future
+oecd_tenure_path |>
+  read_excel(sheet = "HM1.3.A4", skip = 3, na = "..", n_max = 200) |>
+  select(-where(is.logical)) |>
+  set_names(
+    c("country", "tenure_type", tenure_by_income_header$merged_header)) |>
+  fill(country, .direction = "down") |>
+  pivot_longer(
+    cols = -c(country, tenure_type),
+    names_to = c("income", "year"),
+    names_sep = "_") |>
+  mutate(
+    tenure_type = factor(tenure_type,
+      levels = c("Rent (subsidized)", "Rent (private)",
+        "Owner with mortgage", "Own outright",  "Other, unknown")),
+    income = factor(income,
+      levels = c("Bottom Quintile", "2nd Quintile", "3rd Quintile",
+        "4th Quintile", "Top Quintile"),
+      ordered = TRUE),
+    year = as.integer(year),
+    value = value / 100) ->
+tenure_by_income
 ```
 
-Great!
+Let's focus in on the bottom quintile:
+
+```{r}
+#| label: bottom-quntile
+
+tenure_by_income |>
+  filter(income == "Bottom Quintile") |>
+  ggplot() +
+    aes(x = year, y = value, fill = tenure_type) +
+    geom_area(alpha = 0.75) +
+    facet_wrap(vars(country)) +
+    scale_fill_brewer(palette = "Set1") +
+    scale_y_continuous(labels = scales::label_percent()) +
+    theme_minimal() +
+    labs(title = "Tenure type for bottom 20% of people by income")
+
+```
+
+There's a lot going on here, but it's just an exploratory graphic! A few things I see:
+
+- Sudden changes in the rate of subsidised rentals in several countries like France and Germany. This probably indicates policy changes in those schemes. They generally trade with non-subsidised rents, which makes sense.
+- Italy looks like it's seen some growth in outright ownership in recent years, but since it comes from "Other (unknown)", this could just be a methodological change (ie. some sales data was missing).
+- Similar situation with Norway, where it looks like (apart from some perhaps time-limited trials of subsidised rents) some rental data recently became available.
+- Slovakia has seen substantial growth in its mortgage market—but coming from outright ownership, not rentals.
+- UK and US both have outright ownership replacing rentals to a small extent. Colombia has this to a larger extent. (This could be a move from owner-occupied houses to investment properties?)
+- Sweden has outright ownership replacing mortgages
+
+```{r}
+#| label: all-quintiles-australia
+
+tenure_by_income |>
+  filter(country == "Australia") |>
+  ggplot() +
+    aes(x = year, y = value, colour = tenure_type) +
+    geom_point(size = 1) +
+    geom_line(linetype = 3, size = 0.5) +
+    geom_smooth(method = "lm", se = FALSE) +
+    facet_wrap(vars(income)) +
+    scale_color_brewer(palette = "Set1") +
+    scale_y_continuous(labels = scales::label_percent()) +
+    theme_minimal(base_family = "Libre Franklin") +
+    theme(
+      legend.position = "top", legend.direction = "horizontal"
+    ) +
+    labs(title = "Tenure type in Australia, broken down by income group")
+
+```
+In Australia:
+
+- For middle and higher income groups, outright ownership is being replaced with mortgages (I would guess a consequence of 30 year mortgages becoming more common). Rentals are growing a tiny bit too.
+- For the poorest 20% by income (“bottom quintile”), mortgages are being replaced with rentals; outright ownership isn’t changing (likely because these are people with plenty of capital but low income—older people living off their accumulated wealth)
