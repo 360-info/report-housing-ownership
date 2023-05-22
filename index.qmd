@@ -106,8 +106,8 @@ tenure_by_income |>
   ggplot() +
     aes(x = year, y = value, colour = tenure_type) +
     geom_point(size = 1) +
-    geom_line(linetype = 3, size = 0.5) +
-    geom_smooth(method = "lm", se = FALSE) +
+    geom_line(linetype = 1, size = 0.5) +
+    # geom_smooth(method = "lm", se = FALSE) +
     facet_wrap(vars(income)) +
     scale_color_brewer(palette = "Set1") +
     scale_y_continuous(labels = scales::label_percent()) +
@@ -120,5 +120,6 @@ tenure_by_income |>
 ```
 In Australia:
 
-- For middle and higher income groups, outright ownership is being replaced with mortgages (I would guess a consequence of 30 year mortgages becoming more common). Rentals are growing a tiny bit too.
-- For the poorest 20% by income (“bottom quintile”), mortgages are being replaced with rentals; outright ownership isn’t changing (likely because these are people with plenty of capital but low income—older people living off their accumulated wealth)
+- For all income groups (incl. poorest 20%), rents and mortgages trade against each other: when one goes up, the other goes down, and vice-versa.
+- For middle and higher income, outright ownership has been declining over the last decade, boosting mortgage rates. I think this reflects lengthening mortgages.
+- Outright ownership has not changed in the poorest 20%. I think these are retirees who enter this income group when they retire (ie. people are in other income groups when they’re paying off the mortgage, then they go to low income after it’s paid off)
