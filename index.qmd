@@ -9,6 +9,7 @@ format: html
 
 library(tidyverse)
 library(readxl)
+library(corrr)
 library(here)
 ```
 
@@ -37,11 +38,11 @@ This sheet needs some cleanup, as it has a grouped header (income quintile and t
 oecd_tenure_path |>
   read_excel(sheet = "HM1.3.A4", skip = 2, n_max = 2, col_names = FALSE) |>
   t() |>
-  as_tibble() |>
+  as_tibble(.name_repair = "universal") |>
   slice(-(1:2)) |>
-  fill(V1, .direction = "down") |>
-  filter(!is.na(V2)) |>
-  mutate(merged_header = paste(V1, V2, sep = "_")) ->
+  fill(...1, .direction = "down") |>
+  filter(!is.na(...2)) |>
+  mutate(merged_header = paste(...1, ...2, sep = "_")) ->
 tenure_by_income_header
 
 # now import the spreadsheet proper, dropping the blank columns (which come in
@@ -123,3 +124,111 @@ In Australia:
 - For all income groups (incl. poorest 20%), rents and mortgages trade against each other: when one goes up, the other goes down, and vice-versa.
 - For middle and higher income, outright ownership has been declining over the last decade, boosting mortgage rates. I think this reflects lengthening mortgages.
 - Outright ownership has not changed in the poorest 20%. I think these are retirees who enter this income group when they retire (ie. people are in other income groups when they’re paying off the mortgage, then they go to low income after it’s paid off)
+
+
+```{r}
+#| label: tenure-correlations
+tenure_by_income |>
+  pivot_wider(
+    names_from = tenure_type,
+    values_from = value) |>
+  select(-year) |>
+  nest(.by = c(country, income), .key = "tenures") |>
+  mutate(corr = map(tenures, correlate)) ->
+  # mutate(corr = map(tenures, ~ correlate(.x) |> shave())) ->
+tenure_correlations
+
+tenure_correlations |>
+  select(-tenures) |>
+  unnest_longer(corr) |>
+  unpack(corr) |>
+  rename(tenure_x = term) |>
+  pivot_longer(
+    -c(country, income, tenure_x),
+    names_to = "tenure_y",
+    values_to = "corr") ->
+tenure_corr_tidy
+```
+
+```{r}
+#| label: tenure-correlations-vis
+
+dir.create(here("out"), showWarnings = FALSE)
+
+tenure_corr_tidy |>
+  pull(country) |>
+  unique() |>
+  length() ->
+n_countries
+
+tenure_corr_tidy |>
+  # filter(country == "Australia") |>
+  # mutate(across(starts_with("tenure"), str_replace, " ", "\n")) |>
+  mutate(tenure_y = str_replace(tenure_y, " ", "\n")) |>
+  ggplot() +
+    aes(x = tenure_x, y = tenure_y, colour = corr, size = abs(corr)) +
+    geom_point() +
+    facet_grid(rows = vars(country), cols = vars(income)) +
+    # facet_wrap(vars(income), ncol = 2) +
+    scale_x_discrete(position = "top") +
+    scale_colour_fermenter(type = "div", palette = "RdBu", direction = 1,
+      limits = c(-1, 1), breaks = seq(-1, 1, by = 0.2)) +
+    guides(size = guide_none()) +
+    theme_minimal() +
+    theme(
+      legend.direction = "horizontal",
+      legend.position = "top",
+      legend.key.width = unit(0.075, "npc"),
+      axis.text.x = element_text(angle = 45),
+      panel.border = element_rect(colour = "grey", fill = NA)) ->
+tenure_corr_plot
+
+ggsave(
+  here("out", "housing-tenure-income-global.pdf"),
+  plot = tenure_corr_plot,
+  width = 5, height = n_countries + 1, dpi = 150, units = "in", scale = 2,
+  limitsize = FALSE)
+ggsave(
+  here("out", "housing-tenure-income-global.png"),
+  plot = tenure_corr_plot,
+  width = 5, height = n_countries + 1, dpi = 150, units = "in", scale = 2,
+  limitsize = FALSE)
+```
+
+Now I feel like we're getting toward a place where we can compare countries. Perhaps it'd be helpful if we could interactively compare them:
+
+```{r}
+#| label: network-plots
+
+dir.create(here("out", "tenure-by-country-and-income"), showWarnings = FALSE)
+
+# create and save a network plot for each country and income bracket
+tenure_correlations |>
+  select(-tenures) |>
+  pwalk(function(country, income, corr) {
+    corr |>
+      mutate(across(where(is.numeric), ~ replace_na(.x, 0))) ->
+    corr_fix
+    
+    # modify the network plot to use binner 
+    corr_plot <-
+      network_plot(corr_fix) +
+      scale_colour_fermenter(
+        type = "div",
+        palette = "RdBu",
+        direction = 1,
+        limits = c(-1, 1),
+        breaks = seq(-1, 1, by = 0.2)) +
+      scale_size_continuous(range = c(0.5, 3)) +
+      guides(colour = guide_none())
+      
+
+    ggsave(
+      here("out", "tenure-by-country-and-income",
+        paste0(country, "-", income, ".png")),
+      corr_plot,
+      width = 600, height = 600, units = "px", dpi = 150, scale = 2)
+  })
+
+
+```
