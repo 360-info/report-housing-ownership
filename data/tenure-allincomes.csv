@@ -1,0 +1,2461 @@
+Country,tenure_mode,year,value
+Australia,Own outright,2010,33.302342891693115
+Australia,Own outright,2011,33.68907272815704
+Australia,Own outright,2012,32.89943337440491
+Australia,Own outright,2013,32.385292649269104
+Australia,Own outright,2014,32.13135302066803
+Australia,Own outright,2015,31.993281841278076
+Australia,Own outright,2016,31.799399852752686
+Australia,Own outright,2017,31.955486536026
+Australia,Own outright,2018,30.67549467086792
+Australia,Own outright,2019,30.662283301353455
+Australia,Own outright,2020,31.117627024650574
+Australia,Own outright,2021,NA
+Australia,Owner with mortgage,2010,31.13665282726288
+Australia,Owner with mortgage,2011,29.041007161140442
+Australia,Owner with mortgage,2012,29.95968759059906
+Australia,Owner with mortgage,2013,30.001506209373474
+Australia,Owner with mortgage,2014,30.674391984939575
+Australia,Owner with mortgage,2015,31.533032655715942
+Australia,Owner with mortgage,2016,31.179851293563843
+Australia,Owner with mortgage,2017,30.835068225860596
+Australia,Owner with mortgage,2018,31.758427619934082
+Australia,Owner with mortgage,2019,32.03072249889374
+Australia,Owner with mortgage,2020,31.835269927978516
+Australia,Owner with mortgage,2021,NA
+Australia,Rent (private),2010,29.91827428340912
+Australia,Rent (private),2011,32.16670751571655
+Australia,Rent (private),2012,31.509265303611755
+Australia,Rent (private),2013,31.872838735580444
+Australia,Rent (private),2014,31.446939706802368
+Australia,Rent (private),2015,31.829968094825745
+Australia,Rent (private),2016,31.665274500846863
+Australia,Rent (private),2017,32.03796744346619
+Australia,Rent (private),2018,32.35591650009155
+Australia,Rent (private),2019,32.29888379573822
+Australia,Rent (private),2020,32.12665617465973
+Australia,Rent (private),2021,NA
+Australia,Rent (subsidized),2010,NA
+Australia,Rent (subsidized),2011,NA
+Australia,Rent (subsidized),2012,NA
+Australia,Rent (subsidized),2013,NA
+Australia,Rent (subsidized),2014,NA
+Australia,Rent (subsidized),2015,NA
+Australia,Rent (subsidized),2016,NA
+Australia,Rent (subsidized),2017,NA
+Australia,Rent (subsidized),2018,NA
+Australia,Rent (subsidized),2019,NA
+Australia,Rent (subsidized),2020,NA
+Australia,Rent (subsidized),2021,NA
+Australia,"Other, unknown",2010,5.642727762460709
+Australia,"Other, unknown",2011,5.103212594985962
+Australia,"Other, unknown",2012,5.631614848971367
+Australia,"Other, unknown",2013,5.740363523364067
+Australia,"Other, unknown",2014,5.747316777706146
+Australia,"Other, unknown",2015,4.643715918064117
+Australia,"Other, unknown",2016,5.355473235249519
+Australia,"Other, unknown",2017,5.171478167176247
+Australia,"Other, unknown",2018,5.210161581635475
+Australia,"Other, unknown",2019,5.008108913898468
+Australia,"Other, unknown",2020,4.92044985294342
+Australia,"Other, unknown",2021,NA
+Austria,Own outright,2010,30.616268515586853
+Austria,Own outright,2011,27.03651487827301
+Austria,Own outright,2012,29.447057843208313
+Austria,Own outright,2013,29.631367325782776
+Austria,Own outright,2014,30.499374866485596
+Austria,Own outright,2015,29.421746730804443
+Austria,Own outright,2016,28.96430194377899
+Austria,Own outright,2017,29.144254326820374
+Austria,Own outright,2018,28.72026264667511
+Austria,Own outright,2019,28.63580882549286
+Austria,Own outright,2020,29.497215151786804
+Austria,Own outright,2021,NA
+Austria,Owner with mortgage,2010,19.79697048664093
+Austria,Owner with mortgage,2011,17.640958726406097
+Austria,Owner with mortgage,2012,20.155230164527893
+Austria,Owner with mortgage,2013,20.323076844215393
+Austria,Owner with mortgage,2014,19.219650328159332
+Austria,Owner with mortgage,2015,19.443577527999878
+Austria,Owner with mortgage,2016,18.89289915561676
+Austria,Owner with mortgage,2017,18.279297649860382
+Austria,Owner with mortgage,2018,19.135116040706635
+Austria,Owner with mortgage,2019,19.15784776210785
+Austria,Owner with mortgage,2020,18.859639763832092
+Austria,Owner with mortgage,2021,NA
+Austria,Rent (private),2010,41.764021664857864
+Austria,Rent (private),2011,46.18491530418396
+Austria,Rent (private),2012,42.34444797039032
+Austria,Rent (private),2013,42.38549917936325
+Austria,Rent (private),2014,42.91073381900787
+Austria,Rent (private),2015,42.888256907463074
+Austria,Rent (private),2016,43.114716559648514
+Austria,Rent (private),2017,43.248751759529114
+Austria,Rent (private),2018,43.202340602874756
+Austria,Rent (private),2019,43.95989626646042
+Austria,Rent (private),2020,43.795034289360046
+Austria,Rent (private),2021,NA
+Austria,Rent (subsidized),2010,NA
+Austria,Rent (subsidized),2011,NA
+Austria,Rent (subsidized),2012,NA
+Austria,Rent (subsidized),2013,NA
+Austria,Rent (subsidized),2014,NA
+Austria,Rent (subsidized),2015,NA
+Austria,Rent (subsidized),2016,NA
+Austria,Rent (subsidized),2017,NA
+Austria,Rent (subsidized),2018,NA
+Austria,Rent (subsidized),2019,NA
+Austria,Rent (subsidized),2020,NA
+Austria,Rent (subsidized),2021,NA
+Austria,"Other, unknown",2010,7.822736352682114
+Austria,"Other, unknown",2011,9.137611836194992
+Austria,"Other, unknown",2012,8.053264766931534
+Austria,"Other, unknown",2013,7.66005665063858
+Austria,"Other, unknown",2014,7.370241731405258
+Austria,"Other, unknown",2015,8.246420323848724
+Austria,"Other, unknown",2016,9.028083086013794
+Austria,"Other, unknown",2017,9.327694773674011
+Austria,"Other, unknown",2018,8.94228145480156
+Austria,"Other, unknown",2019,8.246451616287231
+Austria,"Other, unknown",2020,7.848111540079117
+Austria,"Other, unknown",2021,NA
+Belgium,Own outright,2010,34.037721157073975
+Belgium,Own outright,2011,33.9726984500885
+Belgium,Own outright,2012,34.028056263923645
+Belgium,Own outright,2013,33.46763253211975
+Belgium,Own outright,2014,32.97740817070007
+Belgium,Own outright,2015,33.626484870910645
+Belgium,Own outright,2016,35.323718190193176
+Belgium,Own outright,2017,35.41801571846008
+Belgium,Own outright,2018,33.976927399635315
+Belgium,Own outright,2019,33.50021541118622
+Belgium,Own outright,2020,32.85626471042633
+Belgium,Own outright,2021,NA
+Belgium,Owner with mortgage,2010,31.610751152038574
+Belgium,Owner with mortgage,2011,32.39768147468567
+Belgium,Owner with mortgage,2012,33.23810696601868
+Belgium,Owner with mortgage,2013,33.26667547225952
+Belgium,Owner with mortgage,2014,33.129727840423584
+Belgium,Owner with mortgage,2015,32.27022588253021
+Belgium,Owner with mortgage,2016,30.949604511260986
+Belgium,Owner with mortgage,2017,32.439541816711426
+Belgium,Owner with mortgage,2018,33.27215313911438
+Belgium,Owner with mortgage,2019,32.823655009269714
+Belgium,Owner with mortgage,2020,33.1642746925354
+Belgium,Owner with mortgage,2021,NA
+Belgium,Rent (private),2010,23.631156980991364
+Belgium,Rent (private),2011,22.605521976947784
+Belgium,Rent (private),2012,22.21931517124176
+Belgium,Rent (private),2013,22.733695805072784
+Belgium,Rent (private),2014,23.756694793701172
+Belgium,Rent (private),2015,24.06717538833618
+Belgium,Rent (private),2016,24.197281897068024
+Belgium,Rent (private),2017,22.084790468215942
+Belgium,Rent (private),2018,22.657476365566254
+Belgium,Rent (private),2019,23.38121384382248
+Belgium,Rent (private),2020,23.482225835323334
+Belgium,Rent (private),2021,NA
+Belgium,Rent (subsidized),2010,8.997435122728348
+Belgium,Rent (subsidized),2011,9.395437687635422
+Belgium,Rent (subsidized),2012,8.909974247217178
+Belgium,Rent (subsidized),2013,8.81151258945465
+Belgium,Rent (subsidized),2014,8.457517623901367
+Belgium,Rent (subsidized),2015,8.534424006938934
+Belgium,Rent (subsidized),2016,8.184317499399185
+Belgium,Rent (subsidized),2017,8.323293924331665
+Belgium,Rent (subsidized),2018,8.627377450466156
+Belgium,Rent (subsidized),2019,8.744487166404724
+Belgium,Rent (subsidized),2020,8.862489461898804
+Belgium,Rent (subsidized),2021,NA
+Belgium,"Other, unknown",2010,1.7229335382580757
+Belgium,"Other, unknown",2011,1.6286594793200493
+Belgium,"Other, unknown",2012,1.6045456752181053
+Belgium,"Other, unknown",2013,1.7204836010932922
+Belgium,"Other, unknown",2014,1.6786476597189903
+Belgium,"Other, unknown",2015,1.5016894787549973
+Belgium,"Other, unknown",2016,1.3450765050947666
+Belgium,"Other, unknown",2017,1.7343582585453987
+Belgium,"Other, unknown",2018,1.4660634100437164
+Belgium,"Other, unknown",2019,1.5504296869039536
+Belgium,"Other, unknown",2020,1.6347456723451614
+Belgium,"Other, unknown",2021,NA
+Canada,Own outright,2010,29.647627472877502
+Canada,Own outright,2011,28.757348656654358
+Canada,Own outright,2012,30.974075198173523
+Canada,Own outright,2013,30.692148208618164
+Canada,Own outright,2014,30.890655517578125
+Canada,Own outright,2015,29.86428439617157
+Canada,Own outright,2016,29.500851035118103
+Canada,Own outright,2017,29.67294752597809
+Canada,Own outright,2018,29.874345660209656
+Canada,Own outright,2019,NA
+Canada,Own outright,2020,NA
+Canada,Own outright,2021,NA
+Canada,Owner with mortgage,2010,39.817437529563904
+Canada,Owner with mortgage,2011,40.50787389278412
+Canada,Owner with mortgage,2012,38.635796308517456
+Canada,Owner with mortgage,2013,38.414984941482544
+Canada,Owner with mortgage,2014,38.89147639274597
+Canada,Owner with mortgage,2015,39.183154702186584
+Canada,Owner with mortgage,2016,38.63552510738373
+Canada,Owner with mortgage,2017,39.08688426017761
+Canada,Owner with mortgage,2018,39.285242557525635
+Canada,Owner with mortgage,2019,NA
+Canada,Owner with mortgage,2020,NA
+Canada,Owner with mortgage,2021,NA
+Canada,Rent (private),2010,30.52694797515869
+Canada,Rent (private),2011,30.73127269744873
+Canada,Rent (private),2012,29.456984996795654
+Canada,Rent (private),2013,29.745936393737793
+Canada,Rent (private),2014,29.53374981880188
+Canada,Rent (private),2015,29.82810139656067
+Canada,Rent (private),2016,30.902662873268127
+Canada,Rent (private),2017,30.355998873710632
+Canada,Rent (private),2018,30.84041476249695
+Canada,Rent (private),2019,NA
+Canada,Rent (private),2020,NA
+Canada,Rent (private),2021,NA
+Canada,Rent (subsidized),2010,NA
+Canada,Rent (subsidized),2011,NA
+Canada,Rent (subsidized),2012,NA
+Canada,Rent (subsidized),2013,NA
+Canada,Rent (subsidized),2014,NA
+Canada,Rent (subsidized),2015,NA
+Canada,Rent (subsidized),2016,NA
+Canada,Rent (subsidized),2017,NA
+Canada,Rent (subsidized),2018,NA
+Canada,Rent (subsidized),2019,NA
+Canada,Rent (subsidized),2020,NA
+Canada,Rent (subsidized),2021,NA
+Canada,"Other, unknown",2010,0.007985345291672274
+Canada,"Other, unknown",2011,0.003505155837046914
+Canada,"Other, unknown",2012,0.9331419132649899
+Canada,"Other, unknown",2013,1.1469308286905289
+Canada,"Other, unknown",2014,0.6841212976723909
+Canada,"Other, unknown",2015,1.1244595982134342
+Canada,"Other, unknown",2016,0.9609600529074669
+Canada,"Other, unknown",2017,0.8841671049594879
+Canada,"Other, unknown",2018,NA
+Canada,"Other, unknown",2019,NA
+Canada,"Other, unknown",2020,NA
+Canada,"Other, unknown",2021,NA
+Chile,Own outright,2010,NA
+Chile,Own outright,2011,52.66011357307434
+Chile,Own outright,2012,NA
+Chile,Own outright,2013,51.27975344657898
+Chile,Own outright,2014,NA
+Chile,Own outright,2015,51.36004090309143
+Chile,Own outright,2016,NA
+Chile,Own outright,2017,49.365147948265076
+Chile,Own outright,2018,NA
+Chile,Own outright,2019,NA
+Chile,Own outright,2020,61.77048683166504
+Chile,Own outright,2021,NA
+Chile,Owner with mortgage,2010,NA
+Chile,Owner with mortgage,2011,12.80636340379715
+Chile,Owner with mortgage,2012,NA
+Chile,Owner with mortgage,2013,13.334810733795166
+Chile,Owner with mortgage,2014,NA
+Chile,Owner with mortgage,2015,12.26726919412613
+Chile,Owner with mortgage,2016,NA
+Chile,Owner with mortgage,2017,11.0255166888237
+Chile,Owner with mortgage,2018,NA
+Chile,Owner with mortgage,2019,NA
+Chile,Owner with mortgage,2020,NA
+Chile,Owner with mortgage,2021,NA
+Chile,Rent (private),2010,NA
+Chile,Rent (private),2011,16.97200834751129
+Chile,Rent (private),2012,NA
+Chile,Rent (private),2013,18.552710115909576
+Chile,Rent (private),2014,NA
+Chile,Rent (private),2015,20.02110332250595
+Chile,Rent (private),2016,NA
+Chile,Rent (private),2017,21.927200257778168
+Chile,Rent (private),2018,NA
+Chile,Rent (private),2019,NA
+Chile,Rent (private),2020,23.153884708881378
+Chile,Rent (private),2021,NA
+Chile,Rent (subsidized),2010,NA
+Chile,Rent (subsidized),2011,NA
+Chile,Rent (subsidized),2012,NA
+Chile,Rent (subsidized),2013,NA
+Chile,Rent (subsidized),2014,NA
+Chile,Rent (subsidized),2015,NA
+Chile,Rent (subsidized),2016,NA
+Chile,Rent (subsidized),2017,NA
+Chile,Rent (subsidized),2018,NA
+Chile,Rent (subsidized),2019,NA
+Chile,Rent (subsidized),2020,NA
+Chile,Rent (subsidized),2021,NA
+Chile,"Other, unknown",2010,NA
+Chile,"Other, unknown",2011,17.56151169538498
+Chile,"Other, unknown",2012,NA
+Chile,"Other, unknown",2013,16.832725703716278
+Chile,"Other, unknown",2014,NA
+Chile,"Other, unknown",2015,16.35158658027649
+Chile,"Other, unknown",2016,NA
+Chile,"Other, unknown",2017,17.682136595249176
+Chile,"Other, unknown",2018,NA
+Chile,"Other, unknown",2019,NA
+Chile,"Other, unknown",2020,15.075628459453583
+Chile,"Other, unknown",2021,NA
+Colombia,Own outright,2010,NA
+Colombia,Own outright,2011,NA
+Colombia,Own outright,2012,36.95175647735596
+Colombia,Own outright,2013,37.23652958869934
+Colombia,Own outright,2014,35.80029010772705
+Colombia,Own outright,2015,34.80067253112793
+Colombia,Own outright,2016,34.68168377876282
+Colombia,Own outright,2017,33.67002606391907
+Colombia,Own outright,2018,33.653005957603455
+Colombia,Own outright,2019,32.84442722797394
+Colombia,Own outright,2020,31.77393674850464
+Colombia,Own outright,2021,NA
+Colombia,Owner with mortgage,2010,NA
+Colombia,Owner with mortgage,2011,NA
+Colombia,Owner with mortgage,2012,6.355353444814682
+Colombia,Owner with mortgage,2013,6.144556403160095
+Colombia,Owner with mortgage,2014,5.643896758556366
+Colombia,Owner with mortgage,2015,5.708900839090347
+Colombia,Owner with mortgage,2016,5.7073429226875305
+Colombia,Owner with mortgage,2017,5.545412003993988
+Colombia,Owner with mortgage,2018,4.731779173016548
+Colombia,Owner with mortgage,2019,5.3638603538274765
+Colombia,Owner with mortgage,2020,5.245686322450638
+Colombia,Owner with mortgage,2021,NA
+Colombia,Rent (private),2010,NA
+Colombia,Rent (private),2011,NA
+Colombia,Rent (private),2012,44.97504234313965
+Colombia,Rent (private),2013,44.99250650405884
+Colombia,Rent (private),2014,46.03951275348663
+Colombia,Rent (private),2015,46.98438346385956
+Colombia,Rent (private),2016,47.12386131286621
+Colombia,Rent (private),2017,48.41009974479675
+Colombia,Rent (private),2018,48.70305061340332
+Colombia,Rent (private),2019,49.08451437950134
+Colombia,Rent (private),2020,50.55020451545715
+Colombia,Rent (private),2021,NA
+Colombia,Rent (subsidized),2010,NA
+Colombia,Rent (subsidized),2011,NA
+Colombia,Rent (subsidized),2012,NA
+Colombia,Rent (subsidized),2013,NA
+Colombia,Rent (subsidized),2014,NA
+Colombia,Rent (subsidized),2015,NA
+Colombia,Rent (subsidized),2016,NA
+Colombia,Rent (subsidized),2017,NA
+Colombia,Rent (subsidized),2018,NA
+Colombia,Rent (subsidized),2019,NA
+Colombia,Rent (subsidized),2020,NA
+Colombia,Rent (subsidized),2021,NA
+Colombia,"Other, unknown",2010,NA
+Colombia,"Other, unknown",2011,NA
+Colombia,"Other, unknown",2012,11.71785220503807
+Colombia,"Other, unknown",2013,11.626408994197845
+Colombia,"Other, unknown",2014,12.516297399997711
+Colombia,"Other, unknown",2015,12.506046891212463
+Colombia,"Other, unknown",2016,12.4871127307415
+Colombia,"Other, unknown",2017,12.374456971883774
+Colombia,"Other, unknown",2018,12.912167608737946
+Colombia,"Other, unknown",2019,12.70720511674881
+Colombia,"Other, unknown",2020,12.430170178413391
+Colombia,"Other, unknown",2021,NA
+Costa Rica,Own outright,2010,62.298452854156494
+Costa Rica,Own outright,2011,61.30021810531616
+Costa Rica,Own outright,2012,62.22063899040222
+Costa Rica,Own outright,2013,62.55348324775696
+Costa Rica,Own outright,2014,62.25636005401611
+Costa Rica,Own outright,2015,60.04985570907593
+Costa Rica,Own outright,2016,61.238259077072144
+Costa Rica,Own outright,2017,62.916237115859985
+Costa Rica,Own outright,2018,61.991679668426514
+Costa Rica,Own outright,2019,60.51916480064392
+Costa Rica,Own outright,2020,62.693703174591064
+Costa Rica,Own outright,2021,NA
+Costa Rica,Owner with mortgage,2010,8.146338164806366
+Costa Rica,Owner with mortgage,2011,8.927880227565765
+Costa Rica,Owner with mortgage,2012,7.803739607334137
+Costa Rica,Owner with mortgage,2013,8.554669469594955
+Costa Rica,Owner with mortgage,2014,9.956451505422592
+Costa Rica,Owner with mortgage,2015,10.559968650341034
+Costa Rica,Owner with mortgage,2016,9.985242038965225
+Costa Rica,Owner with mortgage,2017,9.904919564723969
+Costa Rica,Owner with mortgage,2018,9.277763962745667
+Costa Rica,Owner with mortgage,2019,10.357090830802917
+Costa Rica,Owner with mortgage,2020,9.595408290624619
+Costa Rica,Owner with mortgage,2021,NA
+Costa Rica,Rent (private),2010,20.629188418388367
+Costa Rica,Rent (private),2011,20.579935610294342
+Costa Rica,Rent (private),2012,20.776452124118805
+Costa Rica,Rent (private),2013,20.188328623771667
+Costa Rica,Rent (private),2014,18.901042640209198
+Costa Rica,Rent (private),2015,18.519972264766693
+Costa Rica,Rent (private),2016,18.664924800395966
+Costa Rica,Rent (private),2017,17.25929230451584
+Costa Rica,Rent (private),2018,18.584153056144714
+Costa Rica,Rent (private),2019,18.734480440616608
+Costa Rica,Rent (private),2020,17.95351803302765
+Costa Rica,Rent (private),2021,NA
+Costa Rica,Rent (subsidized),2010,NA
+Costa Rica,Rent (subsidized),2011,NA
+Costa Rica,Rent (subsidized),2012,NA
+Costa Rica,Rent (subsidized),2013,NA
+Costa Rica,Rent (subsidized),2014,NA
+Costa Rica,Rent (subsidized),2015,NA
+Costa Rica,Rent (subsidized),2016,NA
+Costa Rica,Rent (subsidized),2017,NA
+Costa Rica,Rent (subsidized),2018,NA
+Costa Rica,Rent (subsidized),2019,NA
+Costa Rica,Rent (subsidized),2020,NA
+Costa Rica,Rent (subsidized),2021,NA
+Costa Rica,"Other, unknown",2010,8.926022052764893
+Costa Rica,"Other, unknown",2011,9.19196680188179
+Costa Rica,"Other, unknown",2012,9.199168533086777
+Costa Rica,"Other, unknown",2013,8.70351791381836
+Costa Rica,"Other, unknown",2014,8.886148035526276
+Costa Rica,"Other, unknown",2015,10.870200395584106
+Costa Rica,"Other, unknown",2016,10.111575573682785
+Costa Rica,"Other, unknown",2017,9.919553250074387
+Costa Rica,"Other, unknown",2018,10.146404057741165
+Costa Rica,"Other, unknown",2019,10.389262437820435
+Costa Rica,"Other, unknown",2020,9.757369756698608
+Costa Rica,"Other, unknown",2021,NA
+Czech Republic,Own outright,2010,62.30665445327759
+Czech Republic,Own outright,2011,63.224709033966064
+Czech Republic,Own outright,2012,63.92626762390137
+Czech Republic,Own outright,2013,63.61595392227173
+Czech Republic,Own outright,2014,62.431007623672485
+Czech Republic,Own outright,2015,61.57686114311218
+Czech Republic,Own outright,2016,60.634660720825195
+Czech Republic,Own outright,2017,59.98575687408447
+Czech Republic,Own outright,2018,59.37109589576721
+Czech Republic,Own outright,2019,58.940523862838745
+Czech Republic,Own outright,2020,58.90481472015381
+Czech Republic,Own outright,2021,NA
+Czech Republic,Owner with mortgage,2010,14.309659600257874
+Czech Republic,Owner with mortgage,2011,14.636635780334473
+Czech Republic,Owner with mortgage,2012,14.294789731502533
+Czech Republic,Owner with mortgage,2013,14.278466999530792
+Czech Republic,Owner with mortgage,2014,14.056600630283356
+Czech Republic,Owner with mortgage,2015,13.751406967639923
+Czech Republic,Owner with mortgage,2016,14.691162109375
+Czech Republic,Owner with mortgage,2017,15.635918080806732
+Czech Republic,Owner with mortgage,2018,16.041485965251923
+Czech Republic,Owner with mortgage,2019,16.497495770454407
+Czech Republic,Owner with mortgage,2020,16.59235954284668
+Czech Republic,Owner with mortgage,2021,NA
+Czech Republic,Rent (private),2010,5.3507354110479355
+Czech Republic,Rent (private),2011,13.938608765602112
+Czech Republic,Rent (private),2012,13.820230960845947
+Czech Republic,Rent (private),2013,17.141233384609222
+Czech Republic,Rent (private),2014,17.81737059354782
+Czech Republic,Rent (private),2015,17.64538586139679
+Czech Republic,Rent (private),2016,17.246687412261963
+Czech Republic,Rent (private),2017,16.99994206428528
+Czech Republic,Rent (private),2018,17.489057779312134
+Czech Republic,Rent (private),2019,17.88036674261093
+Czech Republic,Rent (private),2020,17.848974466323853
+Czech Republic,Rent (private),2021,NA
+Czech Republic,Rent (subsidized),2010,14.866988360881805
+Czech Republic,Rent (subsidized),2011,4.750984534621239
+Czech Republic,Rent (subsidized),2012,4.512622579932213
+Czech Republic,Rent (subsidized),2013,0.9757964871823788
+Czech Republic,Rent (subsidized),2014,1.4225400984287262
+Czech Republic,Rent (subsidized),2015,1.9705206155776978
+Czech Republic,Rent (subsidized),2016,2.1406276151537895
+Czech Republic,Rent (subsidized),2017,1.8314460292458534
+Czech Republic,Rent (subsidized),2018,1.3948269188404083
+Czech Republic,Rent (subsidized),2019,1.1550717055797577
+Czech Republic,Rent (subsidized),2020,1.2292291969060898
+Czech Republic,Rent (subsidized),2021,NA
+Czech Republic,"Other, unknown",2010,3.165963292121887
+Czech Republic,"Other, unknown",2011,3.4490615129470825
+Czech Republic,"Other, unknown",2012,3.4460969269275665
+Czech Republic,"Other, unknown",2013,3.988545387983322
+Czech Republic,"Other, unknown",2014,4.272481799125671
+Czech Republic,"Other, unknown",2015,5.055826902389526
+Czech Republic,"Other, unknown",2016,5.286857113242149
+Czech Republic,"Other, unknown",2017,5.546939000487328
+Czech Republic,"Other, unknown",2018,5.703537538647652
+Czech Republic,"Other, unknown",2019,5.526544898748398
+Czech Republic,"Other, unknown",2020,5.424626171588898
+Czech Republic,"Other, unknown",2021,NA
+Denmark,Own outright,2010,15.729783475399017
+Denmark,Own outright,2011,15.38785696029663
+Denmark,Own outright,2012,13.60114961862564
+Denmark,Own outright,2013,15.066902339458466
+Denmark,Own outright,2014,14.967302978038788
+Denmark,Own outright,2015,15.73592871427536
+Denmark,Own outright,2016,15.628142654895782
+Denmark,Own outright,2017,16.020706295967102
+Denmark,Own outright,2018,15.53557813167572
+Denmark,Own outright,2019,15.20366221666336
+Denmark,Own outright,2020,15.031015872955322
+Denmark,Own outright,2021,NA
+Denmark,Owner with mortgage,2010,41.67666733264923
+Denmark,Owner with mortgage,2011,41.28710329532623
+Denmark,Owner with mortgage,2012,40.80721735954285
+Denmark,Owner with mortgage,2013,39.630237221717834
+Denmark,Owner with mortgage,2014,38.88815641403198
+Denmark,Owner with mortgage,2015,37.6030832529068
+Denmark,Owner with mortgage,2016,36.940160393714905
+Denmark,Owner with mortgage,2017,37.86277770996094
+Denmark,Owner with mortgage,2018,37.430885434150696
+Denmark,Owner with mortgage,2019,37.52269148826599
+Denmark,Owner with mortgage,2020,36.21615469455719
+Denmark,Owner with mortgage,2021,NA
+Denmark,Rent (private),2010,42.46571958065033
+Denmark,Rent (private),2011,41.84995889663696
+Denmark,Rent (private),2012,45.266443490982056
+Denmark,Rent (private),2013,45.21498382091522
+Denmark,Rent (private),2014,46.00210785865784
+Denmark,Rent (private),2015,46.57675623893738
+Denmark,Rent (private),2016,47.32309877872467
+Denmark,Rent (private),2017,45.920976996421814
+Denmark,Rent (private),2018,46.936315298080444
+Denmark,Rent (private),2019,47.20517694950104
+Denmark,Rent (private),2020,48.62816631793976
+Denmark,Rent (private),2021,NA
+Denmark,Rent (subsidized),2010,NA
+Denmark,Rent (subsidized),2011,NA
+Denmark,Rent (subsidized),2012,NA
+Denmark,Rent (subsidized),2013,NA
+Denmark,Rent (subsidized),2014,NA
+Denmark,Rent (subsidized),2015,NA
+Denmark,Rent (subsidized),2016,NA
+Denmark,Rent (subsidized),2017,NA
+Denmark,Rent (subsidized),2018,NA
+Denmark,Rent (subsidized),2019,NA
+Denmark,Rent (subsidized),2020,NA
+Denmark,Rent (subsidized),2021,NA
+Denmark,"Other, unknown",2010,0.12782466365024447
+Denmark,"Other, unknown",2011,1.4750804752111435
+Denmark,"Other, unknown",2012,0.3251855028793216
+Denmark,"Other, unknown",2013,0.08787500555627048
+Denmark,"Other, unknown",2014,0.14243664918467402
+Denmark,"Other, unknown",2015,0.08423319086432457
+Denmark,"Other, unknown",2016,0.10859296889975667
+Denmark,"Other, unknown",2017,0.19553627353161573
+Denmark,"Other, unknown",2018,0.0972217763774097
+Denmark,"Other, unknown",2019,0.06847246550023556
+Denmark,"Other, unknown",2020,0.12466526823118329
+Denmark,"Other, unknown",2021,NA
+Estonia,Own outright,2010,69.32257413864136
+Estonia,Own outright,2011,67.15868711471558
+Estonia,Own outright,2012,64.93231654167175
+Estonia,Own outright,2013,62.368983030319214
+Estonia,Own outright,2014,62.59843707084656
+Estonia,Own outright,2015,62.58483529090881
+Estonia,Own outright,2016,61.970335245132446
+Estonia,Own outright,2017,62.80673146247864
+Estonia,Own outright,2018,61.6021990776062
+Estonia,Own outright,2019,59.89606976509094
+Estonia,Own outright,2020,57.56734609603882
+Estonia,Own outright,2021,NA
+Estonia,Owner with mortgage,2010,12.487903237342834
+Estonia,Owner with mortgage,2011,12.744437158107758
+Estonia,Owner with mortgage,2012,13.441810011863708
+Estonia,Owner with mortgage,2013,14.093540608882904
+Estonia,Owner with mortgage,2014,14.565655589103699
+Estonia,Owner with mortgage,2015,14.256106317043304
+Estonia,Owner with mortgage,2016,14.345692098140717
+Estonia,Owner with mortgage,2017,14.313049614429474
+Estonia,Owner with mortgage,2018,15.819831192493439
+Estonia,Owner with mortgage,2019,16.465958952903748
+Estonia,Owner with mortgage,2020,19.121642410755157
+Estonia,Owner with mortgage,2021,NA
+Estonia,Rent (private),2010,2.9621880501508713
+Estonia,Rent (private),2011,2.7478812262415886
+Estonia,Rent (private),2012,3.287063166499138
+Estonia,Rent (private),2013,3.7247005850076675
+Estonia,Rent (private),2014,4.204368591308594
+Estonia,Rent (private),2015,4.200369492173195
+Estonia,Rent (private),2016,4.852583631873131
+Estonia,Rent (private),2017,5.116744339466095
+Estonia,Rent (private),2018,5.50851933658123
+Estonia,Rent (private),2019,5.548565462231636
+Estonia,Rent (private),2020,5.697063729166985
+Estonia,Rent (private),2021,NA
+Estonia,Rent (subsidized),2010,3.1313057988882065
+Estonia,Rent (subsidized),2011,3.085957281291485
+Estonia,Rent (subsidized),2012,4.031949490308762
+Estonia,Rent (subsidized),2013,4.184373095631599
+Estonia,Rent (subsidized),2014,3.944789245724678
+Estonia,Rent (subsidized),2015,4.109477624297142
+Estonia,Rent (subsidized),2016,4.032879322767258
+Estonia,Rent (subsidized),2017,3.9760492742061615
+Estonia,Rent (subsidized),2018,3.368362784385681
+Estonia,Rent (subsidized),2019,3.6746498197317123
+Estonia,Rent (subsidized),2020,4.0961820632219315
+Estonia,Rent (subsidized),2021,NA
+Estonia,"Other, unknown",2010,12.096025049686432
+Estonia,"Other, unknown",2011,14.263035356998444
+Estonia,"Other, unknown",2012,14.306861162185669
+Estonia,"Other, unknown",2013,15.628403425216675
+Estonia,"Other, unknown",2014,14.686751365661621
+Estonia,"Other, unknown",2015,14.849206805229187
+Estonia,"Other, unknown",2016,14.798513054847717
+Estonia,"Other, unknown",2017,13.787423074245453
+Estonia,"Other, unknown",2018,13.70108276605606
+Estonia,"Other, unknown",2019,14.414757490158081
+Estonia,"Other, unknown",2020,13.517767190933228
+Estonia,"Other, unknown",2021,NA
+Finland,Own outright,2010,35.849952697753906
+Finland,Own outright,2011,35.61345636844635
+Finland,Own outright,2012,35.77132821083069
+Finland,Own outright,2013,34.896281361579895
+Finland,Own outright,2014,33.84343087673187
+Finland,Own outright,2015,33.92553925514221
+Finland,Own outright,2016,32.877346873283386
+Finland,Own outright,2017,32.70220160484314
+Finland,Own outright,2018,33.1625759601593
+Finland,Own outright,2019,33.05152654647827
+Finland,Own outright,2020,33.186838030815125
+Finland,Own outright,2021,NA
+Finland,Owner with mortgage,2010,32.5514554977417
+Finland,Owner with mortgage,2011,32.31152296066284
+Finland,Owner with mortgage,2012,32.311224937438965
+Finland,Owner with mortgage,2013,32.36929774284363
+Finland,Owner with mortgage,2014,32.56443738937378
+Finland,Owner with mortgage,2015,31.98082149028778
+Finland,Owner with mortgage,2016,31.74024224281311
+Finland,Owner with mortgage,2017,31.85858130455017
+Finland,Owner with mortgage,2018,31.511306762695312
+Finland,Owner with mortgage,2019,30.88735342025757
+Finland,Owner with mortgage,2020,30.474796891212463
+Finland,Owner with mortgage,2021,NA
+Finland,Rent (private),2010,12.77862936258316
+Finland,Rent (private),2011,13.129310309886932
+Finland,Rent (private),2012,13.082562386989594
+Finland,Rent (private),2013,13.82226049900055
+Finland,Rent (private),2014,14.04017060995102
+Finland,Rent (private),2015,15.021118521690369
+Finland,Rent (private),2016,16.27505123615265
+Finland,Rent (private),2017,16.56278669834137
+Finland,Rent (private),2018,17.07196980714798
+Finland,Rent (private),2019,17.930307984352112
+Finland,Rent (private),2020,18.160425126552582
+Finland,Rent (private),2021,NA
+Finland,Rent (subsidized),2010,17.87710338830948
+Finland,Rent (subsidized),2011,17.87721812725067
+Finland,Rent (subsidized),2012,17.880885303020477
+Finland,Rent (subsidized),2013,18.112565577030182
+Finland,Rent (subsidized),2014,18.465881049633026
+Finland,Rent (subsidized),2015,17.962390184402466
+Finland,Rent (subsidized),2016,17.93612688779831
+Finland,Rent (subsidized),2017,17.517992854118347
+Finland,Rent (subsidized),2018,17.019160091876984
+Finland,Rent (subsidized),2019,16.99114739894867
+Finland,Rent (subsidized),2020,17.121021449565887
+Finland,Rent (subsidized),2021,NA
+Finland,"Other, unknown",2010,0.9428581222891808
+Finland,"Other, unknown",2011,1.0684926062822342
+Finland,"Other, unknown",2012,0.9539985097944736
+Finland,"Other, unknown",2013,0.7995931431651115
+Finland,"Other, unknown",2014,1.0860776528716087
+Finland,"Other, unknown",2015,1.110127568244934
+Finland,"Other, unknown",2016,1.1712323874235153
+Finland,"Other, unknown",2017,1.3584366999566555
+Finland,"Other, unknown",2018,1.234988123178482
+Finland,"Other, unknown",2019,1.1396653950214386
+Finland,"Other, unknown",2020,1.0569175705313683
+Finland,"Other, unknown",2021,NA
+France,Own outright,2010,37.70367503166199
+France,Own outright,2011,38.43774199485779
+France,Own outright,2012,38.69982659816742
+France,Own outright,2013,37.80113458633423
+France,Own outright,2014,38.73402774333954
+France,Own outright,2015,38.41656446456909
+France,Own outright,2016,38.713499903678894
+France,Own outright,2017,38.2847934961319
+France,Own outright,2018,38.014477491378784
+France,Own outright,2019,37.089917063713074
+France,Own outright,2020,38.591426610946655
+France,Own outright,2021,NA
+France,Owner with mortgage,2010,21.09442502260208
+France,Owner with mortgage,2011,21.596917510032654
+France,Owner with mortgage,2012,21.93746715784073
+France,Owner with mortgage,2013,23.276472091674805
+France,Owner with mortgage,2014,22.701700031757355
+France,Owner with mortgage,2015,22.523927688598633
+France,Owner with mortgage,2016,22.776447236537933
+France,Owner with mortgage,2017,22.657452523708344
+France,Owner with mortgage,2018,23.93583506345749
+France,Owner with mortgage,2019,23.50289821624756
+France,Owner with mortgage,2020,23.074953258037567
+France,Owner with mortgage,2021,NA
+France,Rent (private),2010,17.697489261627197
+France,Rent (private),2011,17.35391467809677
+France,Rent (private),2012,21.12991511821747
+France,Rent (private),2013,21.578378975391388
+France,Rent (private),2014,21.367649734020233
+France,Rent (private),2015,21.977272629737854
+France,Rent (private),2016,21.184514462947845
+France,Rent (private),2017,20.945867896080017
+France,Rent (private),2018,20.074711740016937
+France,Rent (private),2019,20.8371102809906
+France,Rent (private),2020,17.539848387241364
+France,Rent (private),2021,NA
+France,Rent (subsidized),2010,19.741536676883698
+France,Rent (subsidized),2011,18.858326971530914
+France,Rent (subsidized),2012,14.711213111877441
+France,Rent (subsidized),2013,13.869361579418182
+France,Rent (subsidized),2014,14.136679470539093
+France,Rent (subsidized),2015,13.939952850341797
+France,Rent (subsidized),2016,14.0885591506958
+France,Rent (subsidized),2017,14.968650043010712
+France,Rent (subsidized),2018,14.914824068546295
+France,Rent (subsidized),2019,15.804985165596008
+France,Rent (subsidized),2020,18.470661342144012
+France,Rent (subsidized),2021,NA
+France,"Other, unknown",2010,3.7628691643476486
+France,"Other, unknown",2011,3.7530992180109024
+France,"Other, unknown",2012,3.5215798765420914
+France,"Other, unknown",2013,3.474656119942665
+France,"Other, unknown",2014,3.059942089021206
+France,"Other, unknown",2015,3.1422778964042664
+France,"Other, unknown",2016,3.236980363726616
+France,"Other, unknown",2017,3.1432408839464188
+France,"Other, unknown",2018,3.0601482838392258
+France,"Other, unknown",2019,2.7650929987430573
+France,"Other, unknown",2020,2.323107421398163
+France,"Other, unknown",2021,NA
+Germany,Own outright,2010,25.480917096138
+Germany,Own outright,2011,NA
+Germany,Own outright,2012,25.26232600212097
+Germany,Own outright,2013,NA
+Germany,Own outright,2014,25.958555936813354
+Germany,Own outright,2015,24.82961118221283
+Germany,Own outright,2016,25.14977753162384
+Germany,Own outright,2017,25.378751754760742
+Germany,Own outright,2018,25.681832432746887
+Germany,Own outright,2019,25.550606846809387
+Germany,Own outright,2020,NA
+Germany,Own outright,2021,NA
+Germany,Owner with mortgage,2010,18.853239715099335
+Germany,Owner with mortgage,2011,NA
+Germany,Owner with mortgage,2012,19.52028125524521
+Germany,Owner with mortgage,2013,NA
+Germany,Owner with mortgage,2014,19.040800631046295
+Germany,Owner with mortgage,2015,19.047480821609497
+Germany,Owner with mortgage,2016,19.066445529460907
+Germany,Owner with mortgage,2017,18.427573144435883
+Germany,Owner with mortgage,2018,18.406400084495544
+Germany,Owner with mortgage,2019,18.211087584495544
+Germany,Owner with mortgage,2020,NA
+Germany,Owner with mortgage,2021,NA
+Germany,Rent (private),2010,52.72706747055054
+Germany,Rent (private),2011,NA
+Germany,Rent (private),2012,52.42548584938049
+Germany,Rent (private),2013,NA
+Germany,Rent (private),2014,50.284236669540405
+Germany,Rent (private),2015,46.6753363609314
+Germany,Rent (private),2016,46.13027274608612
+Germany,Rent (private),2017,46.596160531044006
+Germany,Rent (private),2018,47.098371386528015
+Germany,Rent (private),2019,47.340258955955505
+Germany,Rent (private),2020,NA
+Germany,Rent (private),2021,NA
+Germany,Rent (subsidized),2010,2.444598264992237
+Germany,Rent (subsidized),2011,NA
+Germany,Rent (subsidized),2012,2.470639906823635
+Germany,Rent (subsidized),2013,NA
+Germany,Rent (subsidized),2014,4.38169427216053
+Germany,Rent (subsidized),2015,6.738901883363724
+Germany,Rent (subsidized),2016,6.906231492757797
+Germany,Rent (subsidized),2017,6.886368244886398
+Germany,Rent (subsidized),2018,6.508683413267136
+Germany,Rent (subsidized),2019,6.581919640302658
+Germany,Rent (subsidized),2020,NA
+Germany,Rent (subsidized),2021,NA
+Germany,"Other, unknown",2010,0.49417419359087944
+Germany,"Other, unknown",2011,NA
+Germany,"Other, unknown",2012,0.32126009464263916
+Germany,"Other, unknown",2013,NA
+Germany,"Other, unknown",2014,0.33471561037003994
+Germany,"Other, unknown",2015,2.7086742222309113
+Germany,"Other, unknown",2016,2.7472710236907005
+Germany,"Other, unknown",2017,2.711147628724575
+Germany,"Other, unknown",2018,2.3047130554914474
+Germany,"Other, unknown",2019,2.3161303251981735
+Germany,"Other, unknown",2020,NA
+Germany,"Other, unknown",2021,NA
+Greece,Own outright,2010,59.08005237579346
+Greece,Own outright,2011,59.01331901550293
+Greece,Own outright,2012,60.7596218585968
+Greece,Own outright,2013,60.40629744529724
+Greece,Own outright,2014,61.89161539077759
+Greece,Own outright,2015,62.233150005340576
+Greece,Own outright,2016,61.83723211288452
+Greece,Own outright,2017,59.73711609840393
+Greece,Own outright,2018,60.793906450271606
+Greece,Own outright,2019,63.04619312286377
+Greece,Own outright,2020,63.603782653808594
+Greece,Own outright,2021,NA
+Greece,Owner with mortgage,2010,13.977417349815369
+Greece,Owner with mortgage,2011,12.70456314086914
+Greece,Owner with mortgage,2012,12.262436002492905
+Greece,Owner with mortgage,2013,12.431355565786362
+Greece,Owner with mortgage,2014,10.178250819444656
+Greece,Owner with mortgage,2015,10.69151759147644
+Greece,Owner with mortgage,2016,10.558490455150604
+Greece,Owner with mortgage,2017,12.259817868471146
+Greece,Owner with mortgage,2018,11.549166589975357
+Greece,Owner with mortgage,2019,10.15748679637909
+Greece,Owner with mortgage,2020,9.187109768390656
+Greece,Owner with mortgage,2021,NA
+Greece,Rent (private),2010,21.660952270030975
+Greece,Rent (private),2011,21.10409289598465
+Greece,Rent (private),2012,20.979049801826477
+Greece,Rent (private),2013,20.973671972751617
+Greece,Rent (private),2014,21.153590083122253
+Greece,Rent (private),2015,21.339939534664154
+Greece,Rent (private),2016,21.597711741924286
+Greece,Rent (private),2017,21.55318856239319
+Greece,Rent (private),2018,21.497641503810883
+Greece,Rent (private),2019,21.47062122821808
+Greece,Rent (private),2020,21.368511021137238
+Greece,Rent (private),2021,NA
+Greece,Rent (subsidized),2010,0.7408904377371073
+Greece,Rent (subsidized),2011,1.5482749789953232
+Greece,Rent (subsidized),2012,0.8853456936776638
+Greece,Rent (subsidized),2013,0.7774765137583017
+Greece,Rent (subsidized),2014,0.44226301833987236
+Greece,Rent (subsidized),2015,0.42008738964796066
+Greece,Rent (subsidized),2016,0.18230698769912124
+Greece,Rent (subsidized),2017,0.19887606613337994
+Greece,Rent (subsidized),2018,0.25350518990308046
+Greece,Rent (subsidized),2019,0.2805151976644993
+Greece,Rent (subsidized),2020,0.3826321102678776
+Greece,Rent (subsidized),2021,NA
+Greece,"Other, unknown",2010,4.540688171982765
+Greece,"Other, unknown",2011,5.6297507137060165
+Greece,"Other, unknown",2012,5.113544687628746
+Greece,"Other, unknown",2013,5.4111965000629425
+Greece,"Other, unknown",2014,6.334281712770462
+Greece,"Other, unknown",2015,5.3153034299612045
+Greece,"Other, unknown",2016,5.82425594329834
+Greece,"Other, unknown",2017,6.251004338264465
+Greece,"Other, unknown",2018,5.905779078602791
+Greece,"Other, unknown",2019,5.045185983181
+Greece,"Other, unknown",2020,5.457967519760132
+Greece,"Other, unknown",2021,NA
+Hungary,Own outright,2010,69.27338242530823
+Hungary,Own outright,2011,70.14460563659668
+Hungary,Own outright,2012,72.31572270393372
+Hungary,Own outright,2013,72.77180552482605
+Hungary,Own outright,2014,73.6720323562622
+Hungary,Own outright,2015,69.75463032722473
+Hungary,Own outright,2016,74.26100969314575
+Hungary,Own outright,2017,72.83549308776855
+Hungary,Own outright,2018,73.25322031974792
+Hungary,Own outright,2019,78.9401113986969
+Hungary,Own outright,2020,78.92483472824097
+Hungary,Own outright,2021,NA
+Hungary,Owner with mortgage,2010,18.86836886405945
+Hungary,Owner with mortgage,2011,18.123380839824677
+Hungary,Owner with mortgage,2012,16.867712140083313
+Hungary,Owner with mortgage,2013,15.722136199474335
+Hungary,Owner with mortgage,2014,13.55418711900711
+Hungary,Owner with mortgage,2015,13.722875714302063
+Hungary,Owner with mortgage,2016,11.675629019737244
+Hungary,Owner with mortgage,2017,11.917239427566528
+Hungary,Owner with mortgage,2018,11.5350641310215
+Hungary,Owner with mortgage,2019,11.924375593662262
+Hungary,Owner with mortgage,2020,12.075082957744598
+Hungary,Owner with mortgage,2021,NA
+Hungary,Rent (private),2010,2.7426864951848984
+Hungary,Rent (private),2011,3.3651456236839294
+Hungary,Rent (private),2012,3.2964061945676804
+Hungary,Rent (private),2013,3.5239800810813904
+Hungary,Rent (private),2014,4.3096743524074554
+Hungary,Rent (private),2015,4.818578809499741
+Hungary,Rent (private),2016,4.573754593729973
+Hungary,Rent (private),2017,5.448983609676361
+Hungary,Rent (private),2018,5.190365761518478
+Hungary,Rent (private),2019,4.411451891064644
+Hungary,Rent (private),2020,4.53006736934185
+Hungary,Rent (private),2021,NA
+Hungary,Rent (subsidized),2010,3.4400783479213715
+Hungary,Rent (subsidized),2011,3.3957816660404205
+Hungary,Rent (subsidized),2012,3.506382927298546
+Hungary,Rent (subsidized),2013,3.299003094434738
+Hungary,Rent (subsidized),2014,3.516937419772148
+Hungary,Rent (subsidized),2015,3.322712332010269
+Hungary,Rent (subsidized),2016,3.7168405950069427
+Hungary,Rent (subsidized),2017,3.709954023361206
+Hungary,Rent (subsidized),2018,3.7420719861984253
+Hungary,Rent (subsidized),2019,3.4443259239196777
+Hungary,Rent (subsidized),2020,3.5055648535490036
+Hungary,Rent (subsidized),2021,NA
+Hungary,"Other, unknown",2010,5.675482004880905
+Hungary,"Other, unknown",2011,4.971088469028473
+Hungary,"Other, unknown",2012,4.013779014348984
+Hungary,"Other, unknown",2013,4.683072119951248
+Hungary,"Other, unknown",2014,4.947168380022049
+Hungary,"Other, unknown",2015,8.381202816963196
+Hungary,"Other, unknown",2016,5.772766098380089
+Hungary,"Other, unknown",2017,6.088332459330559
+Hungary,"Other, unknown",2018,6.279278546571732
+Hungary,"Other, unknown",2019,1.2797370553016663
+Hungary,"Other, unknown",2020,0.9644517675042152
+Hungary,"Other, unknown",2021,NA
+Iceland,Own outright,2010,15.968996286392212
+Iceland,Own outright,2011,17.56296306848526
+Iceland,Own outright,2012,17.44137406349182
+Iceland,Own outright,2013,17.55647361278534
+Iceland,Own outright,2014,18.921568989753723
+Iceland,Own outright,2015,18.204662203788757
+Iceland,Own outright,2016,17.87562519311905
+Iceland,Own outright,2017,NA
+Iceland,Own outright,2018,18.669071793556213
+Iceland,Own outright,2019,NA
+Iceland,Own outright,2020,NA
+Iceland,Own outright,2021,NA
+Iceland,Owner with mortgage,2010,59.397149085998535
+Iceland,Owner with mortgage,2011,54.507988691329956
+Iceland,Owner with mortgage,2012,54.45011258125305
+Iceland,Owner with mortgage,2013,55.23413419723511
+Iceland,Owner with mortgage,2014,55.063605308532715
+Iceland,Owner with mortgage,2015,54.61582541465759
+Iceland,Owner with mortgage,2016,55.53869009017944
+Iceland,Owner with mortgage,2017,NA
+Iceland,Owner with mortgage,2018,48.58235716819763
+Iceland,Owner with mortgage,2019,NA
+Iceland,Owner with mortgage,2020,NA
+Iceland,Owner with mortgage,2021,NA
+Iceland,Rent (private),2010,13.749648630619049
+Iceland,Rent (private),2011,13.113473355770111
+Iceland,Rent (private),2012,15.199233591556549
+Iceland,Rent (private),2013,14.19343650341034
+Iceland,Rent (private),2014,14.769437909126282
+Iceland,Rent (private),2015,13.577793538570404
+Iceland,Rent (private),2016,12.092461436986923
+Iceland,Rent (private),2017,NA
+Iceland,Rent (private),2018,16.65206402540207
+Iceland,Rent (private),2019,NA
+Iceland,Rent (private),2020,NA
+Iceland,Rent (private),2021,NA
+Iceland,Rent (subsidized),2010,9.068077802658081
+Iceland,Rent (subsidized),2011,11.607690900564194
+Iceland,Rent (subsidized),2012,10.108891129493713
+Iceland,Rent (subsidized),2013,10.71527898311615
+Iceland,Rent (subsidized),2014,9.862106293439865
+Iceland,Rent (subsidized),2015,11.183486133813858
+Iceland,Rent (subsidized),2016,12.033969908952713
+Iceland,Rent (subsidized),2017,NA
+Iceland,Rent (subsidized),2018,12.735652923583984
+Iceland,Rent (subsidized),2019,NA
+Iceland,Rent (subsidized),2020,NA
+Iceland,Rent (subsidized),2021,NA
+Iceland,"Other, unknown",2010,1.816127449274063
+Iceland,"Other, unknown",2011,3.2078832387924194
+Iceland,"Other, unknown",2012,2.8003865852952003
+Iceland,"Other, unknown",2013,2.3006774485111237
+Iceland,"Other, unknown",2014,1.3832799158990383
+Iceland,"Other, unknown",2015,2.418234758079052
+Iceland,"Other, unknown",2016,2.4592531844973564
+Iceland,"Other, unknown",2017,NA
+Iceland,"Other, unknown",2018,3.3608485013246536
+Iceland,"Other, unknown",2019,NA
+Iceland,"Other, unknown",2020,NA
+Iceland,"Other, unknown",2021,NA
+Ireland,Own outright,2010,43.80965530872345
+Ireland,Own outright,2011,41.688352823257446
+Ireland,Own outright,2012,40.98263382911682
+Ireland,Own outright,2013,41.422754526138306
+Ireland,Own outright,2014,41.138142347335815
+Ireland,Own outright,2015,43.90610158443451
+Ireland,Own outright,2016,45.70688605308533
+Ireland,Own outright,2017,45.525071024894714
+Ireland,Own outright,2018,45.38818299770355
+Ireland,Own outright,2019,44.64990496635437
+Ireland,Own outright,2020,41.085731983184814
+Ireland,Own outright,2021,NA
+Ireland,Owner with mortgage,2010,29.136544466018677
+Ireland,Owner with mortgage,2011,28.749728202819824
+Ireland,Owner with mortgage,2012,28.479358553886414
+Ireland,Owner with mortgage,2013,28.96600067615509
+Ireland,Owner with mortgage,2014,28.25155258178711
+Ireland,Owner with mortgage,2015,26.95370614528656
+Ireland,Owner with mortgage,2016,26.971572637557983
+Ireland,Owner with mortgage,2017,26.09648108482361
+Ireland,Owner with mortgage,2018,26.096174120903015
+Ireland,Owner with mortgage,2019,25.4747211933136
+Ireland,Owner with mortgage,2020,28.694316744804382
+Ireland,Owner with mortgage,2021,NA
+Ireland,Rent (private),2010,11.402145028114319
+Ireland,Rent (private),2011,13.889947533607483
+Ireland,Rent (private),2012,14.97926265001297
+Ireland,Rent (private),2013,15.33811241388321
+Ireland,Rent (private),2014,15.171073377132416
+Ireland,Rent (private),2015,13.25584203004837
+Ireland,Rent (private),2016,11.2541064620018
+Ireland,Rent (private),2017,10.648060590028763
+Ireland,Rent (private),2018,10.883403569459915
+Ireland,Rent (private),2019,8.208633959293365
+Ireland,Rent (private),2020,10.714542120695114
+Ireland,Rent (private),2021,NA
+Ireland,Rent (subsidized),2010,14.27348107099533
+Ireland,Rent (subsidized),2011,14.088016748428345
+Ireland,Rent (subsidized),2012,13.380077481269836
+Ireland,Rent (subsidized),2013,12.748070061206818
+Ireland,Rent (subsidized),2014,12.539446353912354
+Ireland,Rent (subsidized),2015,11.863324046134949
+Ireland,Rent (subsidized),2016,13.620541989803314
+Ireland,Rent (subsidized),2017,14.339321851730347
+Ireland,Rent (subsidized),2018,16.273319721221924
+Ireland,Rent (subsidized),2019,20.984207093715668
+Ireland,Rent (subsidized),2020,18.382573127746582
+Ireland,Rent (subsidized),2021,NA
+Ireland,"Other, unknown",2010,1.3781738467514515
+Ireland,"Other, unknown",2011,1.583954133093357
+Ireland,"Other, unknown",2012,2.17866450548172
+Ireland,"Other, unknown",2013,1.5250641852617264
+Ireland,"Other, unknown",2014,2.899785153567791
+Ireland,"Other, unknown",2015,4.021021723747253
+Ireland,"Other, unknown",2016,2.446894720196724
+Ireland,"Other, unknown",2017,3.3910639584064484
+Ireland,"Other, unknown",2018,1.3589167967438698
+Ireland,"Other, unknown",2019,0.6825356744229794
+Ireland,"Other, unknown",2020,1.1228333227336407
+Ireland,"Other, unknown",2021,NA
+Italy,Own outright,2010,57.62420296669006
+Italy,Own outright,2011,58.53965878486633
+Italy,Own outright,2012,59.918880462646484
+Italy,Own outright,2013,57.82970190048218
+Italy,Own outright,2014,57.57736563682556
+Italy,Own outright,2015,58.264803886413574
+Italy,Own outright,2016,58.56301784515381
+Italy,Own outright,2017,60.56874394416809
+Italy,Own outright,2018,60.97308397293091
+Italy,Own outright,2019,60.77561378479004
+Italy,Own outright,2020,NA
+Italy,Own outright,2021,NA
+Italy,Owner with mortgage,2010,13.620302081108093
+Italy,Owner with mortgage,2011,13.118095695972443
+Italy,Owner with mortgage,2012,13.412360846996307
+Italy,Owner with mortgage,2013,14.175939559936523
+Italy,Owner with mortgage,2014,14.238584041595459
+Italy,Owner with mortgage,2015,13.770894706249237
+Italy,Owner with mortgage,2016,12.639595568180084
+Italy,Owner with mortgage,2017,10.900010168552399
+Italy,Owner with mortgage,2018,10.293307155370712
+Italy,Owner with mortgage,2019,10.785485804080963
+Italy,Owner with mortgage,2020,NA
+Italy,Owner with mortgage,2021,NA
+Italy,Rent (private),2010,14.184404909610748
+Italy,Rent (private),2011,13.651491701602936
+Italy,Rent (private),2012,13.401485979557037
+Italy,Rent (private),2013,14.27149772644043
+Italy,Rent (private),2014,14.502851665019989
+Italy,Rent (private),2015,15.27004987001419
+Italy,Rent (private),2016,17.220617830753326
+Italy,Rent (private),2017,18.268626928329468
+Italy,Rent (private),2018,19.068288803100586
+Italy,Rent (private),2019,19.366611540317535
+Italy,Rent (private),2020,NA
+Italy,Rent (private),2021,NA
+Italy,Rent (subsidized),2010,4.844152927398682
+Italy,Rent (subsidized),2011,4.696645587682724
+Italy,Rent (subsidized),2012,4.790519177913666
+Italy,Rent (subsidized),2013,4.192690551280975
+Italy,Rent (subsidized),2014,4.0466707199811935
+Italy,Rent (subsidized),2015,3.7292364984750748
+Italy,Rent (subsidized),2016,2.4965770542621613
+Italy,Rent (subsidized),2017,1.7916252836585045
+Italy,Rent (subsidized),2018,1.707160659134388
+Italy,Rent (subsidized),2019,1.881805993616581
+Italy,Rent (subsidized),2020,NA
+Italy,Rent (subsidized),2021,NA
+Italy,"Other, unknown",2010,9.72694307565689
+Italy,"Other, unknown",2011,9.994106739759445
+Italy,"Other, unknown",2012,8.476749062538147
+Italy,"Other, unknown",2013,9.530172497034073
+Italy,"Other, unknown",2014,9.634527564048767
+Italy,"Other, unknown",2015,8.965012431144714
+Italy,"Other, unknown",2016,9.0801902115345
+Italy,"Other, unknown",2017,8.470994979143143
+Italy,"Other, unknown",2018,7.958158850669861
+Italy,"Other, unknown",2019,7.190484553575516
+Italy,"Other, unknown",2020,NA
+Italy,"Other, unknown",2021,NA
+Korea,Own outright,2010,34.08232033252716
+Korea,Own outright,2011,NA
+Korea,Own outright,2012,42.052069306373596
+Korea,Own outright,2013,NA
+Korea,Own outright,2014,37.838512659072876
+Korea,Own outright,2015,NA
+Korea,Own outright,2016,41.787415742874146
+Korea,Own outright,2017,44.708043336868286
+Korea,Own outright,2018,58.70622396469116
+Korea,Own outright,2019,59.11821126937866
+Korea,Own outright,2020,58.694303035736084
+Korea,Own outright,2021,NA
+Korea,Owner with mortgage,2010,20.168733596801758
+Korea,Owner with mortgage,2011,NA
+Korea,Owner with mortgage,2012,11.730988323688507
+Korea,Owner with mortgage,2013,NA
+Korea,Owner with mortgage,2014,15.804564952850342
+Korea,Owner with mortgage,2015,NA
+Korea,Owner with mortgage,2016,16.11093580722809
+Korea,Owner with mortgage,2017,14.443673193454742
+Korea,Owner with mortgage,2018,NA
+Korea,Owner with mortgage,2019,NA
+Korea,Owner with mortgage,2020,NA
+Korea,Owner with mortgage,2021,NA
+Korea,Rent (private),2010,37.79662251472473
+Korea,Rent (private),2011,NA
+Korea,Rent (private),2012,34.2057466506958
+Korea,Rent (private),2013,NA
+Korea,Rent (private),2014,38.40883672237396
+Korea,Rent (private),2015,NA
+Korea,Rent (private),2016,34.20850336551666
+Korea,Rent (private),2017,32.158493995666504
+Korea,Rent (private),2018,32.24245011806488
+Korea,Rent (private),2019,32.01122581958771
+Korea,Rent (private),2020,32.340216636657715
+Korea,Rent (private),2021,NA
+Korea,Rent (subsidized),2010,5.293137580156326
+Korea,Rent (subsidized),2011,NA
+Korea,Rent (subsidized),2012,9.174703061580658
+Korea,Rent (subsidized),2013,NA
+Korea,Rent (subsidized),2014,5.104595050215721
+Korea,Rent (subsidized),2015,NA
+Korea,Rent (subsidized),2016,3.947329893708229
+Korea,Rent (subsidized),2017,4.883593320846558
+Korea,Rent (subsidized),2018,5.189366638660431
+Korea,Rent (subsidized),2019,5.049341917037964
+Korea,Rent (subsidized),2020,5.165396630764008
+Korea,Rent (subsidized),2021,NA
+Korea,"Other, unknown",2010,2.659185416996479
+Korea,"Other, unknown",2011,NA
+Korea,"Other, unknown",2012,2.8364893049001694
+Korea,"Other, unknown",2013,NA
+Korea,"Other, unknown",2014,2.843497321009636
+Korea,"Other, unknown",2015,NA
+Korea,"Other, unknown",2016,3.945815935730934
+Korea,"Other, unknown",2017,3.806190565228462
+Korea,"Other, unknown",2018,3.8619589060544968
+Korea,"Other, unknown",2019,3.821222111582756
+Korea,"Other, unknown",2020,3.800087049603462
+Korea,"Other, unknown",2021,NA
+Latvia,Own outright,2010,76.31420493125916
+Latvia,Own outright,2011,74.74427819252014
+Latvia,Own outright,2012,72.29792475700378
+Latvia,Own outright,2013,72.65218496322632
+Latvia,Own outright,2014,72.49404191970825
+Latvia,Own outright,2015,70.85416913032532
+Latvia,Own outright,2016,71.91696763038635
+Latvia,Own outright,2017,71.13634943962097
+Latvia,Own outright,2018,71.05388641357422
+Latvia,Own outright,2019,68.7410831451416
+Latvia,Own outright,2020,70.19432783126831
+Latvia,Own outright,2021,NA
+Latvia,Owner with mortgage,2010,6.087357923388481
+Latvia,Owner with mortgage,2011,6.657369434833527
+Latvia,Owner with mortgage,2012,7.601246237754822
+Latvia,Owner with mortgage,2013,7.193572074174881
+Latvia,Owner with mortgage,2014,7.321777194738388
+Latvia,Owner with mortgage,2015,7.511122524738312
+Latvia,Owner with mortgage,2016,7.572612166404724
+Latvia,Owner with mortgage,2017,8.203165233135223
+Latvia,Owner with mortgage,2018,8.745836466550827
+Latvia,Owner with mortgage,2019,9.269386529922485
+Latvia,Owner with mortgage,2020,8.877997100353241
+Latvia,Owner with mortgage,2021,NA
+Latvia,Rent (private),2010,7.353811711072922
+Latvia,Rent (private),2011,8.335955440998077
+Latvia,Rent (private),2012,8.228550106287003
+Latvia,Rent (private),2013,8.385864645242691
+Latvia,Rent (private),2014,8.725224435329437
+Latvia,Rent (private),2015,9.192367643117905
+Latvia,Rent (private),2016,8.829651027917862
+Latvia,Rent (private),2017,8.319823443889618
+Latvia,Rent (private),2018,7.521507889032364
+Latvia,Rent (private),2019,7.714352011680603
+Latvia,Rent (private),2020,7.17267319560051
+Latvia,Rent (private),2021,NA
+Latvia,Rent (subsidized),2010,5.242862179875374
+Latvia,Rent (subsidized),2011,5.1389943808317184
+Latvia,Rent (subsidized),2012,5.3908295929431915
+Latvia,Rent (subsidized),2013,5.4489124566316605
+Latvia,Rent (subsidized),2014,4.398609697818756
+Latvia,Rent (subsidized),2015,4.942385479807854
+Latvia,Rent (subsidized),2016,3.9027467370033264
+Latvia,Rent (subsidized),2017,4.842940345406532
+Latvia,Rent (subsidized),2018,4.912063851952553
+Latvia,Rent (subsidized),2019,4.557269066572189
+Latvia,Rent (subsidized),2020,4.848130792379379
+Latvia,Rent (subsidized),2021,NA
+Latvia,"Other, unknown",2010,5.001761019229889
+Latvia,"Other, unknown",2011,5.123407766222954
+Latvia,"Other, unknown",2012,6.48144856095314
+Latvia,"Other, unknown",2013,6.319466978311539
+Latvia,"Other, unknown",2014,7.060345262289047
+Latvia,"Other, unknown",2015,7.499954849481583
+Latvia,"Other, unknown",2016,7.778020203113556
+Latvia,"Other, unknown",2017,7.497720420360565
+Latvia,"Other, unknown",2018,7.766704261302948
+Latvia,"Other, unknown",2019,9.71791297197342
+Latvia,"Other, unknown",2020,8.9068703353405
+Latvia,"Other, unknown",2021,NA
+Lithuania,Own outright,2010,88.25243711471558
+Lithuania,Own outright,2011,86.98054552078247
+Lithuania,Own outright,2012,86.97872161865234
+Lithuania,Own outright,2013,85.24407744407654
+Lithuania,Own outright,2014,84.1946005821228
+Lithuania,Own outright,2015,84.000563621521
+Lithuania,Own outright,2016,82.35984444618225
+Lithuania,Own outright,2017,80.95260262489319
+Lithuania,Own outright,2018,80.04695773124695
+Lithuania,Own outright,2019,81.21410012245178
+Lithuania,Own outright,2020,83.58733654022217
+Lithuania,Own outright,2021,NA
+Lithuania,Owner with mortgage,2010,5.452845990657806
+Lithuania,Owner with mortgage,2011,5.038631334900856
+Lithuania,Owner with mortgage,2012,4.767504706978798
+Lithuania,Owner with mortgage,2013,6.025194749236107
+Lithuania,Owner with mortgage,2014,5.731178447604179
+Lithuania,Owner with mortgage,2015,5.677298083901405
+Lithuania,Owner with mortgage,2016,7.500087469816208
+Lithuania,Owner with mortgage,2017,8.0097496509552
+Lithuania,Owner with mortgage,2018,9.229634702205658
+Lithuania,Owner with mortgage,2019,9.05899778008461
+Lithuania,Owner with mortgage,2020,7.770579308271408
+Lithuania,Owner with mortgage,2021,NA
+Lithuania,Rent (private),2010,1.2794959358870983
+Lithuania,Rent (private),2011,1.4028401114046574
+Lithuania,Rent (private),2012,1.45935183390975
+Lithuania,Rent (private),2013,1.3582667335867882
+Lithuania,Rent (private),2014,1.5771480277180672
+Lithuania,Rent (private),2015,1.3560834340751171
+Lithuania,Rent (private),2016,1.8558474257588387
+Lithuania,Rent (private),2017,1.8471656367182732
+Lithuania,Rent (private),2018,1.4437928795814514
+Lithuania,Rent (private),2019,1.1688382364809513
+Lithuania,Rent (private),2020,0.7923952303826809
+Lithuania,Rent (private),2021,NA
+Lithuania,Rent (subsidized),2010,1.137634925544262
+Lithuania,Rent (subsidized),2011,1.2099085375666618
+Lithuania,Rent (subsidized),2012,1.666928082704544
+Lithuania,Rent (subsidized),2013,1.5053963288664818
+Lithuania,Rent (subsidized),2014,1.847974956035614
+Lithuania,Rent (subsidized),2015,1.921132579445839
+Lithuania,Rent (subsidized),2016,1.716323383152485
+Lithuania,Rent (subsidized),2017,2.184244804084301
+Lithuania,Rent (subsidized),2018,2.0627055317163467
+Lithuania,Rent (subsidized),2019,1.619858480989933
+Lithuania,Rent (subsidized),2020,1.6345025971531868
+Lithuania,Rent (subsidized),2021,NA
+Lithuania,"Other, unknown",2010,3.877587616443634
+Lithuania,"Other, unknown",2011,5.368075892329216
+Lithuania,"Other, unknown",2012,5.127492919564247
+Lithuania,"Other, unknown",2013,5.867062509059906
+Lithuania,"Other, unknown",2014,6.649100035429001
+Lithuania,"Other, unknown",2015,7.044923305511475
+Lithuania,"Other, unknown",2016,6.567893922328949
+Lithuania,"Other, unknown",2017,7.006235420703888
+Lithuania,"Other, unknown",2018,7.2169095277786255
+Lithuania,"Other, unknown",2019,6.938207149505615
+Lithuania,"Other, unknown",2020,6.215182691812515
+Lithuania,"Other, unknown",2021,NA
+Luxembourg,Own outright,2010,31.89653754234314
+Luxembourg,Own outright,2011,31.39626383781433
+Luxembourg,Own outright,2012,32.54801332950592
+Luxembourg,Own outright,2013,31.953859329223633
+Luxembourg,Own outright,2014,34.29948091506958
+Luxembourg,Own outright,2015,33.870729804039
+Luxembourg,Own outright,2016,33.886292576789856
+Luxembourg,Own outright,2017,35.33059060573578
+Luxembourg,Own outright,2018,33.38879346847534
+Luxembourg,Own outright,2019,33.267512917518616
+Luxembourg,Own outright,2020,30.336108803749084
+Luxembourg,Own outright,2021,NA
+Luxembourg,Owner with mortgage,2010,32.41634964942932
+Luxembourg,Owner with mortgage,2011,32.60576128959656
+Luxembourg,Owner with mortgage,2012,34.8959356546402
+Luxembourg,Owner with mortgage,2013,37.04593777656555
+Luxembourg,Owner with mortgage,2014,34.7000926733017
+Luxembourg,Owner with mortgage,2015,36.129456758499146
+Luxembourg,Owner with mortgage,2016,36.37106418609619
+Luxembourg,Owner with mortgage,2017,35.40228605270386
+Luxembourg,Owner with mortgage,2018,34.411874413490295
+Luxembourg,Owner with mortgage,2019,33.51010084152222
+Luxembourg,Owner with mortgage,2020,35.04564166069031
+Luxembourg,Owner with mortgage,2021,NA
+Luxembourg,Rent (private),2010,30.406296253204346
+Luxembourg,Rent (private),2011,30.315297842025757
+Luxembourg,Rent (private),2012,27.192559838294983
+Luxembourg,Rent (private),2013,24.34641122817993
+Luxembourg,Rent (private),2014,24.476970732212067
+Luxembourg,Rent (private),2015,23.6351877450943
+Luxembourg,Rent (private),2016,23.696118593215942
+Luxembourg,Rent (private),2017,23.440684378147125
+Luxembourg,Rent (private),2018,25.675123929977417
+Luxembourg,Rent (private),2019,25.58434009552002
+Luxembourg,Rent (private),2020,26.14242732524872
+Luxembourg,Rent (private),2021,NA
+Luxembourg,Rent (subsidized),2010,3.3430833369493484
+Luxembourg,Rent (subsidized),2011,3.199240565299988
+Luxembourg,Rent (subsidized),2012,3.15193347632885
+Luxembourg,Rent (subsidized),2013,3.6494452506303787
+Luxembourg,Rent (subsidized),2014,4.178128391504288
+Luxembourg,Rent (subsidized),2015,4.35614176094532
+Luxembourg,Rent (subsidized),2016,4.135647416114807
+Luxembourg,Rent (subsidized),2017,3.8606949150562286
+Luxembourg,Rent (subsidized),2018,4.407962039113045
+Luxembourg,Rent (subsidized),2019,5.259324982762337
+Luxembourg,Rent (subsidized),2020,5.957913771271706
+Luxembourg,Rent (subsidized),2021,NA
+Luxembourg,"Other, unknown",2010,1.9377337768673897
+Luxembourg,"Other, unknown",2011,2.4834362789988518
+Luxembourg,"Other, unknown",2012,2.2115593776106834
+Luxembourg,"Other, unknown",2013,3.0043480917811394
+Luxembourg,"Other, unknown",2014,2.3453261703252792
+Luxembourg,"Other, unknown",2015,2.008485421538353
+Luxembourg,"Other, unknown",2016,1.9108746200799942
+Luxembourg,"Other, unknown",2017,1.9657449796795845
+Luxembourg,"Other, unknown",2018,2.1162474527955055
+Luxembourg,"Other, unknown",2019,2.378717251121998
+Luxembourg,"Other, unknown",2020,2.517903782427311
+Luxembourg,"Other, unknown",2021,NA
+Mexico,Own outright,2010,64.04658555984497
+Mexico,Own outright,2011,NA
+Mexico,Own outright,2012,63.75870108604431
+Mexico,Own outright,2013,NA
+Mexico,Own outright,2014,61.22753620147705
+Mexico,Own outright,2015,NA
+Mexico,Own outright,2016,59.172242879867554
+Mexico,Own outright,2017,NA
+Mexico,Own outright,2018,59.41933989524841
+Mexico,Own outright,2019,NA
+Mexico,Own outright,2020,61.588650941848755
+Mexico,Own outright,2021,NA
+Mexico,Owner with mortgage,2010,5.7420071214437485
+Mexico,Owner with mortgage,2011,NA
+Mexico,Owner with mortgage,2012,4.701156914234161
+Mexico,Owner with mortgage,2013,NA
+Mexico,Owner with mortgage,2014,10.467357188463211
+Mexico,Owner with mortgage,2015,NA
+Mexico,Owner with mortgage,2016,9.744491428136826
+Mexico,Owner with mortgage,2017,NA
+Mexico,Owner with mortgage,2018,8.853588253259659
+Mexico,Owner with mortgage,2019,NA
+Mexico,Owner with mortgage,2020,8.0415278673172
+Mexico,Owner with mortgage,2021,NA
+Mexico,Rent (private),2010,13.98591548204422
+Mexico,Rent (private),2011,NA
+Mexico,Rent (private),2012,14.971424639225006
+Mexico,Rent (private),2013,NA
+Mexico,Rent (private),2014,13.062475621700287
+Mexico,Rent (private),2015,NA
+Mexico,Rent (private),2016,14.5056813955307
+Mexico,Rent (private),2017,NA
+Mexico,Rent (private),2018,15.022879838943481
+Mexico,Rent (private),2019,NA
+Mexico,Rent (private),2020,15.112031996250153
+Mexico,Rent (private),2021,NA
+Mexico,Rent (subsidized),2010,NA
+Mexico,Rent (subsidized),2011,NA
+Mexico,Rent (subsidized),2012,NA
+Mexico,Rent (subsidized),2013,NA
+Mexico,Rent (subsidized),2014,NA
+Mexico,Rent (subsidized),2015,NA
+Mexico,Rent (subsidized),2016,NA
+Mexico,Rent (subsidized),2017,NA
+Mexico,Rent (subsidized),2018,NA
+Mexico,Rent (subsidized),2019,NA
+Mexico,Rent (subsidized),2020,NA
+Mexico,Rent (subsidized),2021,NA
+Mexico,"Other, unknown",2010,16.22548997402191
+Mexico,"Other, unknown",2011,NA
+Mexico,"Other, unknown",2012,16.5687158703804
+Mexico,"Other, unknown",2013,NA
+Mexico,"Other, unknown",2014,15.242631733417511
+Mexico,"Other, unknown",2015,NA
+Mexico,"Other, unknown",2016,16.5775865316391
+Mexico,"Other, unknown",2017,NA
+Mexico,"Other, unknown",2018,16.704198718070984
+Mexico,"Other, unknown",2019,NA
+Mexico,"Other, unknown",2020,15.257787704467773
+Mexico,"Other, unknown",2021,NA
+Netherlands,Own outright,2010,8.809425681829453
+Netherlands,Own outright,2011,8.468730747699738
+Netherlands,Own outright,2012,8.498049527406693
+Netherlands,Own outright,2013,8.4030382335186
+Netherlands,Own outright,2014,9.223239868879318
+Netherlands,Own outright,2015,8.8259257376194
+Netherlands,Own outright,2016,9.07425731420517
+Netherlands,Own outright,2017,9.65363085269928
+Netherlands,Own outright,2018,9.269513189792633
+Netherlands,Own outright,2019,9.268639981746674
+Netherlands,Own outright,2020,9.231220185756683
+Netherlands,Own outright,2021,NA
+Netherlands,Owner with mortgage,2010,48.154813051223755
+Netherlands,Owner with mortgage,2011,48.56849908828735
+Netherlands,Owner with mortgage,2012,48.09287786483765
+Netherlands,Owner with mortgage,2013,47.977668046951294
+Netherlands,Owner with mortgage,2014,47.301143407821655
+Netherlands,Owner with mortgage,2015,47.74248003959656
+Netherlands,Owner with mortgage,2016,49.081969261169434
+Netherlands,Owner with mortgage,2017,48.47176373004913
+Netherlands,Owner with mortgage,2018,48.42948019504547
+Netherlands,Owner with mortgage,2019,48.768433928489685
+Netherlands,Owner with mortgage,2020,48.83788526058197
+Netherlands,Owner with mortgage,2021,NA
+Netherlands,Rent (private),2010,42.63100326061249
+Netherlands,Rent (private),2011,42.32167303562164
+Netherlands,Rent (private),2012,42.88901388645172
+Netherlands,Rent (private),2013,43.155115842819214
+Netherlands,Rent (private),2014,42.867448925971985
+Netherlands,Rent (private),2015,42.88701415061951
+Netherlands,Rent (private),2016,40.887290239334106
+Netherlands,Rent (private),2017,40.77952206134796
+Netherlands,Rent (private),2018,41.03747010231018
+Netherlands,Rent (private),2019,40.88066220283508
+Netherlands,Rent (private),2020,40.79954922199249
+Netherlands,Rent (private),2021,NA
+Netherlands,Rent (subsidized),2010,NA
+Netherlands,Rent (subsidized),2011,NA
+Netherlands,Rent (subsidized),2012,NA
+Netherlands,Rent (subsidized),2013,NA
+Netherlands,Rent (subsidized),2014,NA
+Netherlands,Rent (subsidized),2015,NA
+Netherlands,Rent (subsidized),2016,NA
+Netherlands,Rent (subsidized),2017,NA
+Netherlands,Rent (subsidized),2018,NA
+Netherlands,Rent (subsidized),2019,NA
+Netherlands,Rent (subsidized),2020,NA
+Netherlands,Rent (subsidized),2021,NA
+Netherlands,"Other, unknown",2010,0.40475688874721527
+Netherlands,"Other, unknown",2011,0.6410965695977211
+Netherlands,"Other, unknown",2012,0.5200572777539492
+Netherlands,"Other, unknown",2013,0.4641775507479906
+Netherlands,"Other, unknown",2014,0.6081698928028345
+Netherlands,"Other, unknown",2015,0.5445795599371195
+Netherlands,"Other, unknown",2016,0.9564841166138649
+Netherlands,"Other, unknown",2017,1.095084473490715
+Netherlands,"Other, unknown",2018,1.2635359540581703
+Netherlands,"Other, unknown",2019,1.0822625830769539
+Netherlands,"Other, unknown",2020,1.1313456110656261
+Netherlands,"Other, unknown",2021,NA
+New Zealand,Own outright,2010,NA
+New Zealand,Own outright,2011,NA
+New Zealand,Own outright,2012,NA
+New Zealand,Own outright,2013,NA
+New Zealand,Own outright,2014,NA
+New Zealand,Own outright,2015,NA
+New Zealand,Own outright,2016,NA
+New Zealand,Own outright,2017,NA
+New Zealand,Own outright,2018,NA
+New Zealand,Own outright,2019,30.5
+New Zealand,Own outright,2020,30.8
+New Zealand,Own outright,2021,31.2
+New Zealand,Owner with mortgage,2010,NA
+New Zealand,Owner with mortgage,2011,NA
+New Zealand,Owner with mortgage,2012,NA
+New Zealand,Owner with mortgage,2013,NA
+New Zealand,Owner with mortgage,2014,NA
+New Zealand,Owner with mortgage,2015,NA
+New Zealand,Owner with mortgage,2016,NA
+New Zealand,Owner with mortgage,2017,NA
+New Zealand,Owner with mortgage,2018,NA
+New Zealand,Owner with mortgage,2019,33.4
+New Zealand,Owner with mortgage,2020,33.4
+New Zealand,Owner with mortgage,2021,34.3
+New Zealand,Rent (private),2010,NA
+New Zealand,Rent (private),2011,NA
+New Zealand,Rent (private),2012,NA
+New Zealand,Rent (private),2013,NA
+New Zealand,Rent (private),2014,NA
+New Zealand,Rent (private),2015,NA
+New Zealand,Rent (private),2016,NA
+New Zealand,Rent (private),2017,NA
+New Zealand,Rent (private),2018,NA
+New Zealand,Rent (private),2019,33
+New Zealand,Rent (private),2020,33.6
+New Zealand,Rent (private),2021,32.4
+New Zealand,Rent (subsidized),2010,NA
+New Zealand,Rent (subsidized),2011,NA
+New Zealand,Rent (subsidized),2012,NA
+New Zealand,Rent (subsidized),2013,NA
+New Zealand,Rent (subsidized),2014,NA
+New Zealand,Rent (subsidized),2015,NA
+New Zealand,Rent (subsidized),2016,NA
+New Zealand,Rent (subsidized),2017,NA
+New Zealand,Rent (subsidized),2018,NA
+New Zealand,Rent (subsidized),2019,NA
+New Zealand,Rent (subsidized),2020,NA
+New Zealand,Rent (subsidized),2021,NA
+New Zealand,"Other, unknown",2010,NA
+New Zealand,"Other, unknown",2011,NA
+New Zealand,"Other, unknown",2012,NA
+New Zealand,"Other, unknown",2013,NA
+New Zealand,"Other, unknown",2014,NA
+New Zealand,"Other, unknown",2015,NA
+New Zealand,"Other, unknown",2016,NA
+New Zealand,"Other, unknown",2017,NA
+New Zealand,"Other, unknown",2018,NA
+New Zealand,"Other, unknown",2019,3.1
+New Zealand,"Other, unknown",2020,2.3
+New Zealand,"Other, unknown",2021,2.1
+Norway,Own outright,2010,25.493237376213074
+Norway,Own outright,2011,25.53505301475525
+Norway,Own outright,2012,23.74809980392456
+Norway,Own outright,2013,22.669604420661926
+Norway,Own outright,2014,21.936386823654175
+Norway,Own outright,2015,23.357275128364563
+Norway,Own outright,2016,23.52752685546875
+Norway,Own outright,2017,23.233187198638916
+Norway,Own outright,2018,23.59970211982727
+Norway,Own outright,2019,22.649216651916504
+Norway,Own outright,2020,22.205491364002228
+Norway,Own outright,2021,NA
+Norway,Owner with mortgage,2010,51.182013750076294
+Norway,Owner with mortgage,2011,52.146995067596436
+Norway,Owner with mortgage,2012,53.68397831916809
+Norway,Owner with mortgage,2013,54.169267416000366
+Norway,Owner with mortgage,2014,54.50281500816345
+Norway,Owner with mortgage,2015,50.81814527511597
+Norway,Owner with mortgage,2016,50.85398554801941
+Norway,Owner with mortgage,2017,49.29150342941284
+Norway,Owner with mortgage,2018,49.13380444049835
+Norway,Owner with mortgage,2019,49.79815185070038
+Norway,Owner with mortgage,2020,50.764113664627075
+Norway,Owner with mortgage,2021,NA
+Norway,Rent (private),2010,15.059973299503326
+Norway,Rent (private),2011,13.798162341117859
+Norway,Rent (private),2012,12.155725061893463
+Norway,Rent (private),2013,13.818603754043579
+Norway,Rent (private),2014,13.341982662677765
+Norway,Rent (private),2015,14.575554430484772
+Norway,Rent (private),2016,14.35987800359726
+Norway,Rent (private),2017,16.749916970729828
+Norway,Rent (private),2018,23.107868432998657
+Norway,Rent (private),2019,23.676712810993195
+Norway,Rent (private),2020,23.35115820169449
+Norway,Rent (private),2021,NA
+Norway,Rent (subsidized),2010,1.050584390759468
+Norway,Rent (subsidized),2011,0.529618514701724
+Norway,Rent (subsidized),2012,6.431206315755844
+Norway,Rent (subsidized),2013,0.7319952361285686
+Norway,Rent (subsidized),2014,0.672294246032834
+Norway,Rent (subsidized),2015,1.0321429930627346
+Norway,Rent (subsidized),2016,0.8209584280848503
+Norway,Rent (subsidized),2017,5.714911222457886
+Norway,Rent (subsidized),2018,1.0807530023157597
+Norway,Rent (subsidized),2019,0.8847861550748348
+Norway,Rent (subsidized),2020,1.1369992047548294
+Norway,Rent (subsidized),2021,NA
+Norway,"Other, unknown",2010,7.2141967713832855
+Norway,"Other, unknown",2011,7.990168035030365
+Norway,"Other, unknown",2012,3.9809904992580414
+Norway,"Other, unknown",2013,8.610528707504272
+Norway,"Other, unknown",2014,9.546525776386261
+Norway,"Other, unknown",2015,10.216885805130005
+Norway,"Other, unknown",2016,10.437649488449097
+Norway,"Other, unknown",2017,5.01047819852829
+Norway,"Other, unknown",2018,3.0778715386986732
+Norway,"Other, unknown",2019,2.99113467335701
+Norway,"Other, unknown",2020,2.5422364473342896
+Norway,"Other, unknown",2021,NA
+Poland,Own outright,2010,73.02688956260681
+Poland,Own outright,2011,72.65782952308655
+Poland,Own outright,2012,71.80439829826355
+Poland,Own outright,2013,72.44423627853394
+Poland,Own outright,2014,71.27362489700317
+Poland,Own outright,2015,71.16478085517883
+Poland,Own outright,2016,70.36751508712769
+Poland,Own outright,2017,70.63621282577515
+Poland,Own outright,2018,70.708167552948
+Poland,Own outright,2019,70.09432315826416
+Poland,Own outright,2020,70.58945298194885
+Poland,Own outright,2021,NA
+Poland,Owner with mortgage,2010,6.149739772081375
+Poland,Owner with mortgage,2011,7.260236144065857
+Poland,Owner with mortgage,2012,8.35954025387764
+Poland,Owner with mortgage,2013,8.94753485918045
+Poland,Owner with mortgage,2014,9.821424633264542
+Poland,Owner with mortgage,2015,9.653200954198837
+Poland,Owner with mortgage,2016,10.227537155151367
+Poland,Owner with mortgage,2017,10.125630348920822
+Poland,Owner with mortgage,2018,10.337291657924652
+Poland,Owner with mortgage,2019,10.941670835018158
+Poland,Owner with mortgage,2020,11.86574250459671
+Poland,Owner with mortgage,2021,NA
+Poland,Rent (private),2010,2.922389470040798
+Poland,Rent (private),2011,3.951837122440338
+Poland,Rent (private),2012,4.646531119942665
+Poland,Rent (private),2013,4.8125628381967545
+Poland,Rent (private),2014,5.1324766129255295
+Poland,Rent (private),2015,5.33335916697979
+Poland,Rent (private),2016,5.391106009483337
+Poland,Rent (private),2017,5.189880728721619
+Poland,Rent (private),2018,5.227969586849213
+Poland,Rent (private),2019,5.360940471291542
+Poland,Rent (private),2020,3.9990004152059555
+Poland,Rent (private),2021,NA
+Poland,Rent (subsidized),2010,1.2983661144971848
+Poland,Rent (subsidized),2011,1.959582231938839
+Poland,Rent (subsidized),2012,1.7443211749196053
+Poland,Rent (subsidized),2013,1.5612325631082058
+Poland,Rent (subsidized),2014,1.4435485005378723
+Poland,Rent (subsidized),2015,1.4639065600931644
+Poland,Rent (subsidized),2016,1.4895562082529068
+Poland,Rent (subsidized),2017,0.8798045106232166
+Poland,Rent (subsidized),2018,1.1923115700483322
+Poland,Rent (subsidized),2019,1.4049137011170387
+Poland,Rent (subsidized),2020,1.1636165902018547
+Poland,Rent (subsidized),2021,NA
+Poland,"Other, unknown",2010,16.602617502212524
+Poland,"Other, unknown",2011,14.170517027378082
+Poland,"Other, unknown",2012,13.445205986499786
+Poland,"Other, unknown",2013,12.234437465667725
+Poland,"Other, unknown",2014,12.328926473855972
+Poland,"Other, unknown",2015,12.384754419326782
+Poland,"Other, unknown",2016,12.524285912513733
+Poland,"Other, unknown",2017,13.168469071388245
+Poland,"Other, unknown",2018,12.534262239933014
+Poland,"Other, unknown",2019,12.198150157928467
+Poland,"Other, unknown",2020,12.382186949253082
+Poland,"Other, unknown",2021,NA
+Portugal,Own outright,2010,45.374417304992676
+Portugal,Own outright,2011,44.515830278396606
+Portugal,Own outright,2012,44.34463679790497
+Portugal,Own outright,2013,43.108490109443665
+Portugal,Own outright,2014,43.504732847213745
+Portugal,Own outright,2015,42.84217655658722
+Portugal,Own outright,2016,43.05065870285034
+Portugal,Own outright,2017,42.223066091537476
+Portugal,Own outright,2018,42.69503057003021
+Portugal,Own outright,2019,42.30599105358124
+Portugal,Own outright,2020,43.09484362602234
+Portugal,Own outright,2021,NA
+Portugal,Owner with mortgage,2010,27.963238954544067
+Portugal,Owner with mortgage,2011,29.20123040676117
+Portugal,Owner with mortgage,2012,28.954553604125977
+Portugal,Owner with mortgage,2013,30.003592371940613
+Portugal,Owner with mortgage,2014,30.352100729942322
+Portugal,Owner with mortgage,2015,30.25762140750885
+Portugal,Owner with mortgage,2016,30.292880535125732
+Portugal,Owner with mortgage,2017,30.640381574630737
+Portugal,Owner with mortgage,2018,29.76948916912079
+Portugal,Owner with mortgage,2019,29.574531316757202
+Portugal,Owner with mortgage,2020,31.96498155593872
+Portugal,Owner with mortgage,2021,NA
+Portugal,Rent (private),2010,13.106587529182434
+Portugal,Rent (private),2011,12.684588134288788
+Portugal,Rent (private),2012,11.307859420776367
+Portugal,Rent (private),2013,11.790575832128525
+Portugal,Rent (private),2014,12.955273687839508
+Portugal,Rent (private),2015,13.676407933235168
+Portugal,Rent (private),2016,13.876129686832428
+Portugal,Rent (private),2017,13.825862109661102
+Portugal,Rent (private),2018,13.499753177165985
+Portugal,Rent (private),2019,14.130710065364838
+Portugal,Rent (private),2020,12.773370742797852
+Portugal,Rent (private),2021,NA
+Portugal,Rent (subsidized),2010,6.128616631031036
+Portugal,Rent (subsidized),2011,6.176163628697395
+Portugal,Rent (subsidized),2012,7.679983228445053
+Portugal,Rent (subsidized),2013,6.556675583124161
+Portugal,Rent (subsidized),2014,4.444068670272827
+Portugal,Rent (subsidized),2015,4.664454981684685
+Portugal,Rent (subsidized),2016,4.126688838005066
+Portugal,Rent (subsidized),2017,4.352430999279022
+Portugal,Rent (subsidized),2018,5.018370598554611
+Portugal,Rent (subsidized),2019,4.787928983569145
+Portugal,Rent (subsidized),2020,3.9386767894029617
+Portugal,Rent (subsidized),2021,NA
+Portugal,"Other, unknown",2010,7.427137345075607
+Portugal,"Other, unknown",2011,7.42218941450119
+Portugal,"Other, unknown",2012,7.712966203689575
+Portugal,"Other, unknown",2013,8.540665358304977
+Portugal,"Other, unknown",2014,8.743825554847717
+Portugal,"Other, unknown",2015,8.559339493513107
+Portugal,"Other, unknown",2016,8.65364521741867
+Portugal,"Other, unknown",2017,8.958257734775543
+Portugal,"Other, unknown",2018,9.017357230186462
+Portugal,"Other, unknown",2019,9.200841933488846
+Portugal,"Other, unknown",2020,8.228126913309097
+Portugal,"Other, unknown",2021,NA
+Slovak Republic,Own outright,2010,83.25322270393372
+Slovak Republic,Own outright,2011,83.32756161689758
+Slovak Republic,Own outright,2012,82.27644562721252
+Slovak Republic,Own outright,2013,82.89648294448853
+Slovak Republic,Own outright,2014,81.13493323326111
+Slovak Republic,Own outright,2015,79.85878586769104
+Slovak Republic,Own outright,2016,78.85600328445435
+Slovak Republic,Own outright,2017,76.32458209991455
+Slovak Republic,Own outright,2018,74.53739643096924
+Slovak Republic,Own outright,2019,72.99309372901917
+Slovak Republic,Own outright,2020,72.56104350090027
+Slovak Republic,Own outright,2021,NA
+Slovak Republic,Owner with mortgage,2010,6.640160083770752
+Slovak Republic,Owner with mortgage,2011,6.755362451076508
+Slovak Republic,Owner with mortgage,2012,7.911556959152222
+Slovak Republic,Owner with mortgage,2013,7.716163992881775
+Slovak Republic,Owner with mortgage,2014,9.042613953351974
+Slovak Republic,Owner with mortgage,2015,9.247314929962158
+Slovak Republic,Owner with mortgage,2016,10.094782710075378
+Slovak Republic,Owner with mortgage,2017,13.292333483695984
+Slovak Republic,Owner with mortgage,2018,15.776684880256653
+Slovak Republic,Owner with mortgage,2019,17.34592467546463
+Slovak Republic,Owner with mortgage,2020,18.87941062450409
+Slovak Republic,Owner with mortgage,2021,NA
+Slovak Republic,Rent (private),2010,8.092853426933289
+Slovak Republic,Rent (private),2011,7.844720035791397
+Slovak Republic,Rent (private),2012,7.850559800863266
+Slovak Republic,Rent (private),2013,7.355598360300064
+Slovak Republic,Rent (private),2014,7.8390419483184814
+Slovak Republic,Rent (private),2015,9.206170588731766
+Slovak Republic,Rent (private),2016,9.081418812274933
+Slovak Republic,Rent (private),2017,8.435054868459702
+Slovak Republic,Rent (private),2018,7.827608287334442
+Slovak Republic,Rent (private),2019,7.979481667280197
+Slovak Republic,Rent (private),2020,6.817018240690231
+Slovak Republic,Rent (private),2021,NA
+Slovak Republic,Rent (subsidized),2010,0.6162883248180151
+Slovak Republic,Rent (subsidized),2011,0.6429416593164206
+Slovak Republic,Rent (subsidized),2012,0.4827628843486309
+Slovak Republic,Rent (subsidized),2013,0.7251001428812742
+Slovak Republic,Rent (subsidized),2014,0.20448153372853994
+Slovak Republic,Rent (subsidized),2015,0.29412098228931427
+Slovak Republic,Rent (subsidized),2016,0.30426138546317816
+Slovak Republic,Rent (subsidized),2017,0.38010370917618275
+Slovak Republic,Rent (subsidized),2018,0.3886367427185178
+Slovak Republic,Rent (subsidized),2019,0.6542233750224113
+Slovak Republic,Rent (subsidized),2020,0.7324202917516232
+Slovak Republic,Rent (subsidized),2021,NA
+Slovak Republic,"Other, unknown",2010,1.3974754139780998
+Slovak Republic,"Other, unknown",2011,1.4294175431132317
+Slovak Republic,"Other, unknown",2012,1.4786728657782078
+Slovak Republic,"Other, unknown",2013,1.306656189262867
+Slovak Republic,"Other, unknown",2014,1.7789294943213463
+Slovak Republic,"Other, unknown",2015,1.3936051167547703
+Slovak Republic,"Other, unknown",2016,1.6635319218039513
+Slovak Republic,"Other, unknown",2017,1.5679225325584412
+Slovak Republic,"Other, unknown",2018,1.4696728438138962
+Slovak Republic,"Other, unknown",2019,1.0272801853716373
+Slovak Republic,"Other, unknown",2020,1.0101106017827988
+Slovak Republic,"Other, unknown",2021,NA
+Slovenia,Own outright,2010,70.24723291397095
+Slovenia,Own outright,2011,69.40684914588928
+Slovenia,Own outright,2012,67.55525469779968
+Slovenia,Own outright,2013,67.40094423294067
+Slovenia,Own outright,2014,67.2869324684143
+Slovenia,Own outright,2015,66.37158989906311
+Slovenia,Own outright,2016,65.60007333755493
+Slovenia,Own outright,2017,65.3076708316803
+Slovenia,Own outright,2018,65.20119309425354
+Slovenia,Own outright,2019,64.39371705055237
+Slovenia,Own outright,2020,64.47279453277588
+Slovenia,Own outright,2021,NA
+Slovenia,Owner with mortgage,2010,6.530388444662094
+Slovenia,Owner with mortgage,2011,6.507749110460281
+Slovenia,Owner with mortgage,2012,6.856478005647659
+Slovenia,Owner with mortgage,2013,7.855032384395599
+Slovenia,Owner with mortgage,2014,8.338978886604309
+Slovenia,Owner with mortgage,2015,8.682601153850555
+Slovenia,Owner with mortgage,2016,8.178797364234924
+Slovenia,Owner with mortgage,2017,9.221654385328293
+Slovenia,Owner with mortgage,2018,9.241124242544174
+Slovenia,Owner with mortgage,2019,9.874227643013
+Slovenia,Owner with mortgage,2020,9.501936286687851
+Slovenia,Owner with mortgage,2021,NA
+Slovenia,Rent (private),2010,5.293683335185051
+Slovenia,Rent (private),2011,6.109346076846123
+Slovenia,Rent (private),2012,5.942808464169502
+Slovenia,Rent (private),2013,6.0525014996528625
+Slovenia,Rent (private),2014,6.43661692738533
+Slovenia,Rent (private),2015,5.113736167550087
+Slovenia,Rent (private),2016,5.793777480721474
+Slovenia,Rent (private),2017,5.733007937669754
+Slovenia,Rent (private),2018,6.132248789072037
+Slovenia,Rent (private),2019,5.974199622869492
+Slovenia,Rent (private),2020,5.638827010989189
+Slovenia,Rent (private),2021,NA
+Slovenia,Rent (subsidized),2010,2.906792052090168
+Slovenia,Rent (subsidized),2011,2.8131019324064255
+Slovenia,Rent (subsidized),2012,3.731410577893257
+Slovenia,Rent (subsidized),2013,3.466670587658882
+Slovenia,Rent (subsidized),2014,3.8436856120824814
+Slovenia,Rent (subsidized),2015,5.336805060505867
+Slovenia,Rent (subsidized),2016,5.286839976906776
+Slovenia,Rent (subsidized),2017,5.107748880982399
+Slovenia,Rent (subsidized),2018,4.587908089160919
+Slovenia,Rent (subsidized),2019,4.619470611214638
+Slovenia,Rent (subsidized),2020,5.079886689782143
+Slovenia,Rent (subsidized),2021,NA
+Slovenia,"Other, unknown",2010,15.021905303001404
+Slovenia,"Other, unknown",2011,15.162952244281769
+Slovenia,"Other, unknown",2012,15.914048254489899
+Slovenia,"Other, unknown",2013,15.22485464811325
+Slovenia,"Other, unknown",2014,14.093784987926483
+Slovenia,"Other, unknown",2015,14.495265483856201
+Slovenia,"Other, unknown",2016,15.140514075756073
+Slovenia,"Other, unknown",2017,14.629919826984406
+Slovenia,"Other, unknown",2018,14.837521314620972
+Slovenia,"Other, unknown",2019,15.138386189937592
+Slovenia,"Other, unknown",2020,15.306557714939117
+Slovenia,"Other, unknown",2021,NA
+Spain,Own outright,2010,48.080357909202576
+Spain,Own outright,2011,50.50979256629944
+Spain,Own outright,2012,50.683432817459106
+Spain,Own outright,2013,48.97971749305725
+Spain,Own outright,2014,49.66254234313965
+Spain,Own outright,2015,50.31581521034241
+Spain,Own outright,2016,50.52486062049866
+Spain,Own outright,2017,51.39721632003784
+Spain,Own outright,2018,50.883281230926514
+Spain,Own outright,2019,51.217252016067505
+Spain,Own outright,2020,49.011266231536865
+Spain,Own outright,2021,NA
+Spain,Owner with mortgage,2010,31.294655799865723
+Spain,Owner with mortgage,2011,29.081422090530396
+Spain,Owner with mortgage,2012,28.49254310131073
+Spain,Owner with mortgage,2013,28.700587153434753
+Spain,Owner with mortgage,2014,28.386184573173523
+Spain,Owner with mortgage,2015,26.89800262451172
+Spain,Owner with mortgage,2016,26.58543586730957
+Spain,Owner with mortgage,2017,25.28095245361328
+Spain,Owner with mortgage,2018,25.008943676948547
+Spain,Owner with mortgage,2019,24.40275549888611
+Spain,Owner with mortgage,2020,26.396679878234863
+Spain,Owner with mortgage,2021,NA
+Spain,Rent (private),2010,11.410515010356903
+Spain,Rent (private),2011,12.105702608823776
+Spain,Rent (private),2012,12.026658654212952
+Spain,Rent (private),2013,12.944275140762329
+Spain,Rent (private),2014,12.437330931425095
+Spain,Rent (private),2015,13.209615647792816
+Spain,Rent (private),2016,13.763922452926636
+Spain,Rent (private),2017,14.288923144340515
+Spain,Rent (private),2018,14.813204109668732
+Spain,Rent (private),2019,15.526224672794342
+Spain,Rent (private),2020,14.43106085062027
+Spain,Rent (private),2021,NA
+Spain,Rent (subsidized),2010,3.113251179456711
+Spain,Rent (subsidized),2011,2.807416580617428
+Spain,Rent (subsidized),2012,2.534337528049946
+Spain,Rent (subsidized),2013,2.476360835134983
+Spain,Rent (subsidized),2014,2.494365908205509
+Spain,Rent (subsidized),2015,2.4074112996459007
+Spain,Rent (subsidized),2016,2.5159241631627083
+Spain,Rent (subsidized),2017,2.5564955547451973
+Spain,Rent (subsidized),2018,2.8063571080565453
+Spain,Rent (subsidized),2019,2.7081161737442017
+Spain,Rent (subsidized),2020,3.267306461930275
+Spain,Rent (subsidized),2021,NA
+Spain,"Other, unknown",2010,6.101221218705177
+Spain,"Other, unknown",2011,5.495661869645119
+Spain,"Other, unknown",2012,6.26303032040596
+Spain,"Other, unknown",2013,6.899058818817139
+Spain,"Other, unknown",2014,7.019578665494919
+Spain,"Other, unknown",2015,7.169153541326523
+Spain,"Other, unknown",2016,6.609854847192764
+Spain,"Other, unknown",2017,6.4764127135276794
+Spain,"Other, unknown",2018,6.488215923309326
+Spain,"Other, unknown",2019,6.145650148391724
+Spain,"Other, unknown",2020,6.8936847150325775
+Spain,"Other, unknown",2021,NA
+Sweden,Own outright,2010,3.7253476679325104
+Sweden,Own outright,2011,5.085679516196251
+Sweden,Own outright,2012,11.243008822202682
+Sweden,Own outright,2013,10.500447452068329
+Sweden,Own outright,2014,9.76584106683731
+Sweden,Own outright,2015,9.324783086776733
+Sweden,Own outright,2016,13.081464171409607
+Sweden,Own outright,2017,16.236968338489532
+Sweden,Own outright,2018,15.204481780529022
+Sweden,Own outright,2019,14.631038904190063
+Sweden,Own outright,2020,14.864607155323029
+Sweden,Own outright,2021,NA
+Sweden,Owner with mortgage,2010,59.29766297340393
+Sweden,Owner with mortgage,2011,57.25427269935608
+Sweden,Owner with mortgage,2012,51.99265480041504
+Sweden,Owner with mortgage,2013,51.638901233673096
+Sweden,Owner with mortgage,2014,52.29824185371399
+Sweden,Owner with mortgage,2015,50.16351938247681
+Sweden,Owner with mortgage,2016,46.05876803398132
+Sweden,Owner with mortgage,2017,42.41753816604614
+Sweden,Owner with mortgage,2018,42.521703243255615
+Sweden,Owner with mortgage,2019,43.34576725959778
+Sweden,Owner with mortgage,2020,43.564268946647644
+Sweden,Owner with mortgage,2021,NA
+Sweden,Rent (private),2010,35.84414720535278
+Sweden,Rent (private),2011,36.881646513938904
+Sweden,Rent (private),2012,35.7795387506485
+Sweden,Rent (private),2013,36.67770326137543
+Sweden,Rent (private),2014,36.857905983924866
+Sweden,Rent (private),2015,39.40320611000061
+Sweden,Rent (private),2016,39.31769132614136
+Sweden,Rent (private),2017,39.17610943317413
+Sweden,Rent (private),2018,39.75748419761658
+Sweden,Rent (private),2019,39.750006794929504
+Sweden,Rent (private),2020,39.39467668533325
+Sweden,Rent (private),2021,NA
+Sweden,Rent (subsidized),2010,0.555805629119277
+Sweden,Rent (subsidized),2011,0.3807047614827752
+Sweden,Rent (subsidized),2012,0.23875965271145105
+Sweden,Rent (subsidized),2013,0.4266491625458002
+Sweden,Rent (subsidized),2014,0.5400735419243574
+Sweden,Rent (subsidized),2015,0.42285090312361717
+Sweden,Rent (subsidized),2016,0.1356173655949533
+Sweden,Rent (subsidized),2017,NA
+Sweden,Rent (subsidized),2018,NA
+Sweden,Rent (subsidized),2019,NA
+Sweden,Rent (subsidized),2020,NA
+Sweden,Rent (subsidized),2021,NA
+Sweden,"Other, unknown",2010,0.577030424028635
+Sweden,"Other, unknown",2011,0.39770067669451237
+Sweden,"Other, unknown",2012,0.7460430264472961
+Sweden,"Other, unknown",2013,0.7562971208244562
+Sweden,"Other, unknown",2014,0.5379357375204563
+Sweden,"Other, unknown",2015,0.6856352090835571
+Sweden,"Other, unknown",2016,1.406457182019949
+Sweden,"Other, unknown",2017,2.1693801507353783
+Sweden,"Other, unknown",2018,2.5163326412439346
+Sweden,"Other, unknown",2019,2.2731838747859
+Sweden,"Other, unknown",2020,2.17644851654768
+Sweden,"Other, unknown",2021,NA
+Switzerland,Own outright,2010,5.1756177097558975
+Switzerland,Own outright,2011,5.027170106768608
+Switzerland,Own outright,2012,5.43513260781765
+Switzerland,Own outright,2013,5.003290995955467
+Switzerland,Own outright,2014,5.395280942320824
+Switzerland,Own outright,2015,5.157081410288811
+Switzerland,Own outright,2016,4.826442524790764
+Switzerland,Own outright,2017,NA
+Switzerland,Own outright,2018,4.7694724053144455
+Switzerland,Own outright,2019,4.151963442564011
+Switzerland,Own outright,2020,4.4935379177331924
+Switzerland,Own outright,2021,NA
+Switzerland,Owner with mortgage,2010,34.387752413749695
+Switzerland,Owner with mortgage,2011,33.84373486042023
+Switzerland,Owner with mortgage,2012,34.72159802913666
+Switzerland,Owner with mortgage,2013,34.77974832057953
+Switzerland,Owner with mortgage,2014,34.875595569610596
+Switzerland,Owner with mortgage,2015,33.2415372133255
+Switzerland,Owner with mortgage,2016,32.525694370269775
+Switzerland,Owner with mortgage,2017,NA
+Switzerland,Owner with mortgage,2018,33.19721221923828
+Switzerland,Owner with mortgage,2019,33.28509330749512
+Switzerland,Owner with mortgage,2020,33.463847637176514
+Switzerland,Owner with mortgage,2021,NA
+Switzerland,Rent (private),2010,54.02142405509949
+Switzerland,Rent (private),2011,55.697888135910034
+Switzerland,Rent (private),2012,54.66785430908203
+Switzerland,Rent (private),2013,55.11982440948486
+Switzerland,Rent (private),2014,52.144789695739746
+Switzerland,Rent (private),2015,53.344541788101196
+Switzerland,Rent (private),2016,54.89582419395447
+Switzerland,Rent (private),2017,NA
+Switzerland,Rent (private),2018,55.06336688995361
+Switzerland,Rent (private),2019,56.42896294593811
+Switzerland,Rent (private),2020,55.47059178352356
+Switzerland,Rent (private),2021,NA
+Switzerland,Rent (subsidized),2010,4.506444931030273
+Switzerland,Rent (subsidized),2011,3.689522296190262
+Switzerland,Rent (subsidized),2012,3.4976445138454437
+Switzerland,Rent (subsidized),2013,3.3837690949440002
+Switzerland,Rent (subsidized),2014,6.117807328701019
+Switzerland,Rent (subsidized),2015,6.612485647201538
+Switzerland,Rent (subsidized),2016,6.162640452384949
+Switzerland,Rent (subsidized),2017,NA
+Switzerland,Rent (subsidized),2018,5.529907718300819
+Switzerland,Rent (subsidized),2019,4.486246407032013
+Switzerland,Rent (subsidized),2020,5.673711746931076
+Switzerland,Rent (subsidized),2021,NA
+Switzerland,"Other, unknown",2010,1.9087603315711021
+Switzerland,"Other, unknown",2011,1.7416806891560555
+Switzerland,"Other, unknown",2012,1.6777679324150085
+Switzerland,"Other, unknown",2013,1.7133655026555061
+Switzerland,"Other, unknown",2014,1.4665252529084682
+Switzerland,"Other, unknown",2015,1.64435263723135
+Switzerland,"Other, unknown",2016,1.5893969684839249
+Switzerland,"Other, unknown",2017,NA
+Switzerland,"Other, unknown",2018,1.4400355517864227
+Switzerland,"Other, unknown",2019,1.6477346420288086
+Switzerland,"Other, unknown",2020,0.8983161300420761
+Switzerland,"Other, unknown",2021,NA
+Türkiye,Own outright,2010,58.9877188205719
+Türkiye,Own outright,2011,58.46658945083618
+Türkiye,Own outright,2012,59.237468242645264
+Türkiye,Own outright,2013,59.206390380859375
+Türkiye,Own outright,2014,59.29054617881775
+Türkiye,Own outright,2015,58.51140022277832
+Türkiye,Own outright,2016,58.175915479660034
+Türkiye,Own outright,2017,57.66376256942749
+Türkiye,Own outright,2018,57.00833201408386
+Türkiye,Own outright,2019,56.75346255302429
+Türkiye,Own outright,2020,55.71392774581909
+Türkiye,Own outright,2021,NA
+Türkiye,Owner with mortgage,2010,NA
+Türkiye,Owner with mortgage,2011,NA
+Türkiye,Owner with mortgage,2012,NA
+Türkiye,Owner with mortgage,2013,NA
+Türkiye,Owner with mortgage,2014,NA
+Türkiye,Owner with mortgage,2015,NA
+Türkiye,Owner with mortgage,2016,NA
+Türkiye,Owner with mortgage,2017,NA
+Türkiye,Owner with mortgage,2018,NA
+Türkiye,Owner with mortgage,2019,NA
+Türkiye,Owner with mortgage,2020,NA
+Türkiye,Owner with mortgage,2021,NA
+Türkiye,Rent (private),2010,24.056658148765564
+Türkiye,Rent (private),2011,24.585561454296112
+Türkiye,Rent (private),2012,23.597124218940735
+Türkiye,Rent (private),2013,24.15272146463394
+Türkiye,Rent (private),2014,24.954017996788025
+Türkiye,Rent (private),2015,26.048436760902405
+Türkiye,Rent (private),2016,26.945367455482483
+Türkiye,Rent (private),2017,27.052783966064453
+Türkiye,Rent (private),2018,27.688699960708618
+Türkiye,Rent (private),2019,28.09431254863739
+Türkiye,Rent (private),2020,28.84937822818756
+Türkiye,Rent (private),2021,NA
+Türkiye,Rent (subsidized),2010,NA
+Türkiye,Rent (subsidized),2011,NA
+Türkiye,Rent (subsidized),2012,NA
+Türkiye,Rent (subsidized),2013,NA
+Türkiye,Rent (subsidized),2014,NA
+Türkiye,Rent (subsidized),2015,NA
+Türkiye,Rent (subsidized),2016,NA
+Türkiye,Rent (subsidized),2017,NA
+Türkiye,Rent (subsidized),2018,NA
+Türkiye,Rent (subsidized),2019,NA
+Türkiye,Rent (subsidized),2020,NA
+Türkiye,Rent (subsidized),2021,NA
+Türkiye,"Other, unknown",2010,16.955628991127014
+Türkiye,"Other, unknown",2011,16.947847604751587
+Türkiye,"Other, unknown",2012,17.16540902853012
+Türkiye,"Other, unknown",2013,16.640891134738922
+Türkiye,"Other, unknown",2014,15.755435824394226
+Türkiye,"Other, unknown",2015,15.440161526203156
+Türkiye,"Other, unknown",2016,14.878714084625244
+Türkiye,"Other, unknown",2017,15.283459424972534
+Türkiye,"Other, unknown",2018,15.302969515323639
+Türkiye,"Other, unknown",2019,15.152221918106079
+Türkiye,"Other, unknown",2020,15.436694025993347
+Türkiye,"Other, unknown",2021,NA
+United Kingdom,Own outright,2010,31.53681755065918
+United Kingdom,Own outright,2011,31.777307391166687
+United Kingdom,Own outright,2012,33.33002328872681
+United Kingdom,Own outright,2013,33.6111456155777
+United Kingdom,Own outright,2014,34.38898026943207
+United Kingdom,Own outright,2015,35.63258945941925
+United Kingdom,Own outright,2016,36.35515868663788
+United Kingdom,Own outright,2017,36.55919432640076
+United Kingdom,Own outright,2018,37.02167570590973
+United Kingdom,Own outright,2019,37.38320171833038
+United Kingdom,Own outright,2020,39.2802357673645
+United Kingdom,Own outright,2021,NA
+United Kingdom,Owner with mortgage,2010,35.481610894203186
+United Kingdom,Owner with mortgage,2011,33.60425531864166
+United Kingdom,Owner with mortgage,2012,32.6104462146759
+United Kingdom,Owner with mortgage,2013,31.851524114608765
+United Kingdom,Owner with mortgage,2014,31.058582663536072
+United Kingdom,Owner with mortgage,2015,30.732586979866028
+United Kingdom,Owner with mortgage,2016,29.875794053077698
+United Kingdom,Owner with mortgage,2017,29.55099046230316
+United Kingdom,Owner with mortgage,2018,29.599374532699585
+United Kingdom,Owner with mortgage,2019,29.434669017791748
+United Kingdom,Owner with mortgage,2020,28.038498759269714
+United Kingdom,Owner with mortgage,2021,NA
+United Kingdom,Rent (private),2010,13.274157047271729
+United Kingdom,Rent (private),2011,13.800062239170074
+United Kingdom,Rent (private),2012,12.783868610858917
+United Kingdom,Rent (private),2013,12.575827538967133
+United Kingdom,Rent (private),2014,12.390626966953278
+United Kingdom,Rent (private),2015,12.550878524780273
+United Kingdom,Rent (private),2016,12.558640539646149
+United Kingdom,Rent (private),2017,12.503200769424438
+United Kingdom,Rent (private),2018,11.994694173336029
+United Kingdom,Rent (private),2019,11.59837543964386
+United Kingdom,Rent (private),2020,11.13712340593338
+United Kingdom,Rent (private),2021,NA
+United Kingdom,Rent (subsidized),2010,19.061635434627533
+United Kingdom,Rent (subsidized),2011,20.323579013347626
+United Kingdom,Rent (subsidized),2012,20.796626806259155
+United Kingdom,Rent (subsidized),2013,20.761418342590332
+United Kingdom,Rent (subsidized),2014,20.741841197013855
+United Kingdom,Rent (subsidized),2015,20.77420949935913
+United Kingdom,Rent (subsidized),2016,20.7736998796463
+United Kingdom,Rent (subsidized),2017,20.70210576057434
+United Kingdom,Rent (subsidized),2018,20.779667794704437
+United Kingdom,Rent (subsidized),2019,20.93174308538437
+United Kingdom,Rent (subsidized),2020,19.967590272426605
+United Kingdom,Rent (subsidized),2021,NA
+United Kingdom,"Other, unknown",2010,0.6457781419157982
+United Kingdom,"Other, unknown",2011,0.49479594454169273
+United Kingdom,"Other, unknown",2012,0.47903023660182953
+United Kingdom,"Other, unknown",2013,1.2000872753560543
+United Kingdom,"Other, unknown",2014,1.4199656434357166
+United Kingdom,"Other, unknown",2015,0.30973111279308796
+United Kingdom,"Other, unknown",2016,0.43670181185007095
+United Kingdom,"Other, unknown",2017,0.6845064461231232
+United Kingdom,"Other, unknown",2018,0.6045860704034567
+United Kingdom,"Other, unknown",2019,0.6520120427012444
+United Kingdom,"Other, unknown",2020,1.5765557065606117
+United Kingdom,"Other, unknown",2021,NA
+United States,Own outright,2010,21.47240787744522
+United States,Own outright,2011,21.711082756519318
+United States,Own outright,2012,21.857254207134247
+United States,Own outright,2013,22.68766611814499
+United States,Own outright,2014,22.903922200202942
+United States,Own outright,2015,23.19110482931137
+United States,Own outright,2016,23.323680460453033
+United States,Own outright,2017,23.75224679708481
+United States,Own outright,2018,24.373655021190643
+United States,Own outright,2019,24.534739553928375
+United States,Own outright,2020,25.72002112865448
+United States,Own outright,2021,NA
+United States,Owner with mortgage,2010,43.945568799972534
+United States,Owner with mortgage,2011,42.96862781047821
+United States,Owner with mortgage,2012,42.14848577976227
+United States,Owner with mortgage,2013,40.888601541519165
+United States,Owner with mortgage,2014,40.27512967586517
+United States,Owner with mortgage,2015,39.94991183280945
+United States,Owner with mortgage,2016,39.86199200153351
+United States,Owner with mortgage,2017,40.19652307033539
+United States,Owner with mortgage,2018,39.644378423690796
+United States,Owner with mortgage,2019,39.62605893611908
+United States,Owner with mortgage,2020,39.74429368972778
+United States,Owner with mortgage,2021,NA
+United States,Rent (private),2010,32.692500948905945
+United States,Rent (private),2011,33.38960409164429
+United States,Rent (private),2012,34.0673953294754
+United States,Rent (private),2013,34.49641764163971
+United States,Rent (private),2014,34.88318622112274
+United States,Rent (private),2015,34.94057059288025
+United States,Rent (private),2016,34.96046960353851
+United States,Rent (private),2017,34.268081188201904
+United States,Rent (private),2018,34.223148226737976
+United States,Rent (private),2019,34.119629859924316
+United States,Rent (private),2020,32.744136452674866
+United States,Rent (private),2021,NA
+United States,Rent (subsidized),2010,NA
+United States,Rent (subsidized),2011,NA
+United States,Rent (subsidized),2012,NA
+United States,Rent (subsidized),2013,NA
+United States,Rent (subsidized),2014,NA
+United States,Rent (subsidized),2015,NA
+United States,Rent (subsidized),2016,NA
+United States,Rent (subsidized),2017,NA
+United States,Rent (subsidized),2018,NA
+United States,Rent (subsidized),2019,NA
+United States,Rent (subsidized),2020,NA
+United States,Rent (subsidized),2021,NA
+United States,"Other, unknown",2010,1.8895244225859642
+United States,"Other, unknown",2011,1.9306860864162445
+United States,"Other, unknown",2012,1.9268613308668137
+United States,"Other, unknown",2013,1.9273120909929276
+United States,"Other, unknown",2014,1.937759853899479
+United States,"Other, unknown",2015,1.9184142351150513
+United States,"Other, unknown",2016,1.8538540229201317
+United States,"Other, unknown",2017,1.7831455916166306
+United States,"Other, unknown",2018,1.7588205635547638
+United States,"Other, unknown",2019,1.719570904970169
+United States,"Other, unknown",2020,1.7915459349751472
+United States,"Other, unknown",2021,NA
+Bulgaria,Own outright,2010,84.43045616149902
+Bulgaria,Own outright,2011,84.81397032737732
+Bulgaria,Own outright,2012,84.667205810546875
+Bulgaria,Own outright,2013,82.8797698020935
+Bulgaria,Own outright,2014,81.50978088378906
+Bulgaria,Own outright,2015,80.01372814178467
+Bulgaria,Own outright,2016,80.10168671607971
+Bulgaria,Own outright,2017,80.28721809387207
+Bulgaria,Own outright,2018,81.24580979347229
+Bulgaria,Own outright,2019,82.28611946105957
+Bulgaria,Own outright,2020,82.74449706077576
+Bulgaria,Own outright,2021,NA
+Bulgaria,Owner with mortgage,2010,1.5494825318455696
+Bulgaria,Owner with mortgage,2011,1.2581631541252136
+Bulgaria,Owner with mortgage,2012,1.5458999201655388
+Bulgaria,Owner with mortgage,2013,1.953219436109066
+Bulgaria,Owner with mortgage,2014,2.051859349012375
+Bulgaria,Owner with mortgage,2015,2.114577405154705
+Bulgaria,Owner with mortgage,2016,2.0053116604685783
+Bulgaria,Owner with mortgage,2017,2.186214178800583
+Bulgaria,Owner with mortgage,2018,1.8875660374760628
+Bulgaria,Owner with mortgage,2019,1.5232473611831665
+Bulgaria,Owner with mortgage,2020,1.6238627955317497
+Bulgaria,Owner with mortgage,2021,NA
+Bulgaria,Rent (private),2010,2.54740621894598
+Bulgaria,Rent (private),2011,2.00461745262146
+Bulgaria,Rent (private),2012,1.7000891268253326
+Bulgaria,Rent (private),2013,1.9563475623726845
+Bulgaria,Rent (private),2014,2.7889231219887733
+Bulgaria,Rent (private),2015,3.2476354390382767
+Bulgaria,Rent (private),2016,2.8285719454288483
+Bulgaria,Rent (private),2017,3.065275400876999
+Bulgaria,Rent (private),2018,2.889101766049862
+Bulgaria,Rent (private),2019,2.8040749952197075
+Bulgaria,Rent (private),2020,2.5510739535093307
+Bulgaria,Rent (private),2021,NA
+Bulgaria,Rent (subsidized),2010,1.5090292319655418
+Bulgaria,Rent (subsidized),2011,1.892903819680214
+Bulgaria,Rent (subsidized),2012,1.7143391072750092
+Bulgaria,Rent (subsidized),2013,1.5157097950577736
+Bulgaria,Rent (subsidized),2014,1.6382593661546707
+Bulgaria,Rent (subsidized),2015,1.1751271784305573
+Bulgaria,Rent (subsidized),2016,1.4061442576348782
+Bulgaria,Rent (subsidized),2017,1.2213033623993397
+Bulgaria,Rent (subsidized),2018,1.5307583846151829
+Bulgaria,Rent (subsidized),2019,1.3173495419323444
+Bulgaria,Rent (subsidized),2020,1.5357386320829391
+Bulgaria,Rent (subsidized),2021,NA
+Bulgaria,"Other, unknown",2010,9.963630139827728
+Bulgaria,"Other, unknown",2011,10.030344873666763
+Bulgaria,"Other, unknown",2012,10.37246510386467
+Bulgaria,"Other, unknown",2013,11.694950610399246
+Bulgaria,"Other, unknown",2014,12.011175602674484
+Bulgaria,"Other, unknown",2015,13.448931276798248
+Bulgaria,"Other, unknown",2016,13.658283650875092
+Bulgaria,"Other, unknown",2017,13.239984214305878
+Bulgaria,"Other, unknown",2018,12.446768581867218
+Bulgaria,"Other, unknown",2019,12.069203704595566
+Bulgaria,"Other, unknown",2020,11.54482215642929
+Bulgaria,"Other, unknown",2021,NA
+Croatia,Own outright,2010,NA
+Croatia,Own outright,2011,NA
+Croatia,Own outright,2012,NA
+Croatia,Own outright,2013,NA
+Croatia,Own outright,2014,NA
+Croatia,Own outright,2015,NA
+Croatia,Own outright,2016,85.08051633834839
+Croatia,Own outright,2017,84.72396731376648
+Croatia,Own outright,2018,84.29448008537292
+Croatia,Own outright,2019,83.32184553146362
+Croatia,Own outright,2020,84.94775295257568
+Croatia,Own outright,2021,NA
+Croatia,Owner with mortgage,2010,NA
+Croatia,Owner with mortgage,2011,NA
+Croatia,Owner with mortgage,2012,NA
+Croatia,Owner with mortgage,2013,NA
+Croatia,Owner with mortgage,2014,NA
+Croatia,Owner with mortgage,2015,NA
+Croatia,Owner with mortgage,2016,4.742952063679695
+Croatia,Owner with mortgage,2017,5.694751068949699
+Croatia,Owner with mortgage,2018,5.4115332663059235
+Croatia,Owner with mortgage,2019,5.872498452663422
+Croatia,Owner with mortgage,2020,6.3687629997730255
+Croatia,Owner with mortgage,2021,NA
+Croatia,Rent (private),2010,NA
+Croatia,Rent (private),2011,NA
+Croatia,Rent (private),2012,NA
+Croatia,Rent (private),2013,NA
+Croatia,Rent (private),2014,NA
+Croatia,Rent (private),2015,NA
+Croatia,Rent (private),2016,1.7861394211649895
+Croatia,Rent (private),2017,1.532130315899849
+Croatia,Rent (private),2018,1.325744390487671
+Croatia,Rent (private),2019,1.763441413640976
+Croatia,Rent (private),2020,1.5297329053282738
+Croatia,Rent (private),2021,NA
+Croatia,Rent (subsidized),2010,NA
+Croatia,Rent (subsidized),2011,NA
+Croatia,Rent (subsidized),2012,NA
+Croatia,Rent (subsidized),2013,NA
+Croatia,Rent (subsidized),2014,NA
+Croatia,Rent (subsidized),2015,NA
+Croatia,Rent (subsidized),2016,1.619126833975315
+Croatia,Rent (subsidized),2017,1.5962207689881325
+Croatia,Rent (subsidized),2018,1.9751319661736488
+Croatia,Rent (subsidized),2019,1.7253587022423744
+Croatia,Rent (subsidized),2020,1.2623676098883152
+Croatia,Rent (subsidized),2021,NA
+Croatia,"Other, unknown",2010,NA
+Croatia,"Other, unknown",2011,NA
+Croatia,"Other, unknown",2012,NA
+Croatia,"Other, unknown",2013,NA
+Croatia,"Other, unknown",2014,NA
+Croatia,"Other, unknown",2015,NA
+Croatia,"Other, unknown",2016,6.771262735128403
+Croatia,"Other, unknown",2017,6.452929228544235
+Croatia,"Other, unknown",2018,6.993111222982407
+Croatia,"Other, unknown",2019,7.316859811544418
+Croatia,"Other, unknown",2020,5.891387537121773
+Croatia,"Other, unknown",2021,NA
+Cyprus,Own outright,2010,53.09472680091858
+Cyprus,Own outright,2011,52.04113721847534
+Cyprus,Own outright,2012,50.4754900932312
+Cyprus,Own outright,2013,50.48854351043701
+Cyprus,Own outright,2014,49.432891607284546
+Cyprus,Own outright,2015,49.40809607505798
+Cyprus,Own outright,2016,49.175700545310974
+Cyprus,Own outright,2017,48.62828552722931
+Cyprus,Own outright,2018,48.24075996875763
+Cyprus,Own outright,2019,47.08914756774902
+Cyprus,Own outright,2020,46.98382914066315
+Cyprus,Own outright,2021,NA
+Cyprus,Owner with mortgage,2010,12.234117835760117
+Cyprus,Owner with mortgage,2011,13.880053162574768
+Cyprus,Owner with mortgage,2012,14.916931092739105
+Cyprus,Owner with mortgage,2013,15.863296389579773
+Cyprus,Owner with mortgage,2014,15.983512997627258
+Cyprus,Owner with mortgage,2015,16.437093913555145
+Cyprus,Owner with mortgage,2016,16.440516710281372
+Cyprus,Owner with mortgage,2017,15.810491144657135
+Cyprus,Owner with mortgage,2018,15.475805103778839
+Cyprus,Owner with mortgage,2019,14.54986184835434
+Cyprus,Owner with mortgage,2020,14.612337946891785
+Cyprus,Owner with mortgage,2021,NA
+Cyprus,Rent (private),2010,13.081736862659454
+Cyprus,Rent (private),2011,12.781910598278046
+Cyprus,Rent (private),2012,14.58020955324173
+Cyprus,Rent (private),2013,13.513407111167908
+Cyprus,Rent (private),2014,14.486253261566162
+Cyprus,Rent (private),2015,15.577824413776398
+Cyprus,Rent (private),2016,15.890069305896759
+Cyprus,Rent (private),2017,16.83240830898285
+Cyprus,Rent (private),2018,17.423640191555023
+Cyprus,Rent (private),2019,18.116797506809235
+Cyprus,Rent (private),2020,17.888957262039185
+Cyprus,Rent (private),2021,NA
+Cyprus,Rent (subsidized),2010,0.8184591308236122
+Cyprus,Rent (subsidized),2011,1.1503192596137524
+Cyprus,Rent (subsidized),2012,1.0471493005752563
+Cyprus,Rent (subsidized),2013,1.1298918165266514
+Cyprus,Rent (subsidized),2014,1.1938347481191158
+Cyprus,Rent (subsidized),2015,0.9520925581455231
+Cyprus,Rent (subsidized),2016,0.4990831483155489
+Cyprus,Rent (subsidized),2017,0.688895070925355
+Cyprus,Rent (subsidized),2018,0.8925951085984707
+Cyprus,Rent (subsidized),2019,0.9983974508941174
+Cyprus,Rent (subsidized),2020,1.1327040381729603
+Cyprus,Rent (subsidized),2021,NA
+Cyprus,"Other, unknown",2010,20.770961046218872
+Cyprus,"Other, unknown",2011,20.146581530570984
+Cyprus,"Other, unknown",2012,18.980222940444946
+Cyprus,"Other, unknown",2013,19.004864990711212
+Cyprus,"Other, unknown",2014,18.90350878238678
+Cyprus,"Other, unknown",2015,17.62489378452301
+Cyprus,"Other, unknown",2016,17.994634807109833
+Cyprus,"Other, unknown",2017,18.039920926094055
+Cyprus,"Other, unknown",2018,17.96720325946808
+Cyprus,"Other, unknown",2019,19.245797395706177
+Cyprus,"Other, unknown",2020,19.38217431306839
+Cyprus,"Other, unknown",2021,NA
+Malta,Own outright,2010,60.37330627441406
+Malta,Own outright,2011,59.998297691345215
+Malta,Own outright,2012,61.309897899627686
+Malta,Own outright,2013,59.537988901138306
+Malta,Own outright,2014,58.25835466384888
+Malta,Own outright,2015,58.704233169555664
+Malta,Own outright,2016,58.65033268928528
+Malta,Own outright,2017,58.27791094779968
+Malta,Own outright,2018,58.34123492240906
+Malta,Own outright,2019,57.44824409484863
+Malta,Own outright,2020,56.83167576789856
+Malta,Own outright,2021,NA
+Malta,Owner with mortgage,2010,15.301366150379181
+Malta,Owner with mortgage,2011,16.409561038017273
+Malta,Owner with mortgage,2012,16.237452626228333
+Malta,Owner with mortgage,2013,17.0284703373909
+Malta,Owner with mortgage,2014,17.925338447093964
+Malta,Owner with mortgage,2015,17.574115097522736
+Malta,Owner with mortgage,2016,18.315142393112183
+Malta,Owner with mortgage,2017,19.446414709091187
+Malta,Owner with mortgage,2018,20.380695164203644
+Malta,Owner with mortgage,2019,19.54999417066574
+Malta,Owner with mortgage,2020,21.696390211582184
+Malta,Owner with mortgage,2021,NA
+Malta,Rent (private),2010,2.0515846088528633
+Malta,Rent (private),2011,2.5631705299019814
+Malta,Rent (private),2012,2.9820263385772705
+Malta,Rent (private),2013,2.177182026207447
+Malta,Rent (private),2014,2.58472952991724
+Malta,Rent (private),2015,3.2719694077968597
+Malta,Rent (private),2016,3.963896259665489
+Malta,Rent (private),2017,6.260794401168823
+Malta,Rent (private),2018,8.188983798027039
+Malta,Rent (private),2019,10.790690034627914
+Malta,Rent (private),2020,11.360741406679153
+Malta,Rent (private),2021,NA
+Malta,Rent (subsidized),2010,16.268005967140198
+Malta,Rent (subsidized),2011,15.420161187648773
+Malta,Rent (subsidized),2012,15.136708319187164
+Malta,Rent (subsidized),2013,16.399799287319183
+Malta,Rent (subsidized),2014,15.783929824829102
+Malta,Rent (subsidized),2015,14.987649023532867
+Malta,Rent (subsidized),2016,13.689319789409637
+Malta,Rent (subsidized),2017,10.844677686691284
+Malta,Rent (subsidized),2018,8.159653842449188
+Malta,Rent (subsidized),2019,7.14191272854805
+Malta,Rent (subsidized),2020,5.359639599919319
+Malta,Rent (subsidized),2021,NA
+Malta,"Other, unknown",2010,6.005730852484703
+Malta,"Other, unknown",2011,5.608809366822243
+Malta,"Other, unknown",2012,4.333913698792458
+Malta,"Other, unknown",2013,4.85655777156353
+Malta,"Other, unknown",2014,5.447650700807571
+Malta,"Other, unknown",2015,5.4620299488306046
+Malta,"Other, unknown",2016,5.3813159465789795
+Malta,"Other, unknown",2017,5.170203372836113
+Malta,"Other, unknown",2018,4.929431155323982
+Malta,"Other, unknown",2019,5.069161579012871
+Malta,"Other, unknown",2020,4.751553758978844
+Malta,"Other, unknown",2021,NA
+Romania,Own outright,2010,96.75526022911072
+Romania,Own outright,2011,95.81454992294312
+Romania,Own outright,2012,95.80668210983276
+Romania,Own outright,2013,94.63391304016113
+Romania,Own outright,2014,95.6583321094513
+Romania,Own outright,2015,95.77251076698303
+Romania,Own outright,2016,95.36532759666443
+Romania,Own outright,2017,95.63416242599487
+Romania,Own outright,2018,95.03542184829712
+Romania,Own outright,2019,94.55164670944214
+Romania,Own outright,2020,94.98456716537476
+Romania,Own outright,2021,NA
+Romania,Owner with mortgage,2010,0.5583606194704771
+Romania,Owner with mortgage,2011,0.6055188830941916
+Romania,Owner with mortgage,2012,0.7767407223582268
+Romania,Owner with mortgage,2013,0.9149914607405663
+Romania,Owner with mortgage,2014,0.6336672231554985
+Romania,Owner with mortgage,2015,0.6725853309035301
+Romania,Owner with mortgage,2016,0.6578183732926846
+Romania,Owner with mortgage,2017,0.9983972646296024
+Romania,Owner with mortgage,2018,0.8983544073998928
+Romania,Owner with mortgage,2019,0.9255780838429928
+Romania,Owner with mortgage,2020,0.908004492521286
+Romania,Owner with mortgage,2021,NA
+Romania,Rent (private),2010,1.2102373875677586
+Romania,Rent (private),2011,1.3306590728461742
+Romania,Rent (private),2012,1.0791514068841934
+Romania,Rent (private),2013,1.6405913978815079
+Romania,Rent (private),2014,0.8690721355378628
+Romania,Rent (private),2015,1.1269109323620796
+Romania,Rent (private),2016,1.4974819496273994
+Romania,Rent (private),2017,1.1969891376793385
+Romania,Rent (private),2018,1.3694707304239273
+Romania,Rent (private),2019,1.5222987160086632
+Romania,Rent (private),2020,1.5038304030895233
+Romania,Rent (private),2021,0
+Romania,Rent (subsidized),2010,0.6275116465985775
+Romania,Rent (subsidized),2011,0.7834635674953461
+Romania,Rent (subsidized),2012,0.7144990842789412
+Romania,Rent (subsidized),2013,0.9696365334093571
+Romania,Rent (subsidized),2014,0.8398955687880516
+Romania,Rent (subsidized),2015,0.05853389739058912
+Romania,Rent (subsidized),2016,0.25003927294164896
+Romania,Rent (subsidized),2017,0.572745269164443
+Romania,Rent (subsidized),2018,0.7887311279773712
+Romania,Rent (subsidized),2019,1.1565811932086945
+Romania,Rent (subsidized),2020,0.8568494580686092
+Romania,Rent (subsidized),2021,NA
+Romania,"Other, unknown",2010,0.8486290462315083
+Romania,"Other, unknown",2011,1.4658106490969658
+Romania,"Other, unknown",2012,1.6229255124926567
+Romania,"Other, unknown",2013,1.8408633768558502
+Romania,"Other, unknown",2014,1.9990313798189163
+Romania,"Other, unknown",2015,2.369460090994835
+Romania,"Other, unknown",2016,2.2293375805020332
+Romania,"Other, unknown",2017,1.5977062284946442
+Romania,"Other, unknown",2018,1.9080212339758873
+Romania,"Other, unknown",2019,1.84389129281044
+Romania,"Other, unknown",2020,1.7467459663748741
+Romania,"Other, unknown",2021,NA

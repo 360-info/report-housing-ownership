@@ -11,6 +11,9 @@ library(tidyverse)
 library(readxl)
 library(corrr)
 library(here)
+
+dir.create(here("out"), showWarnings = FALSE)
+dir.create(here("out", "tenure-by-country-and-income"), showWarnings = FALSE)
 ```
 
 There're a few interesting sheets in this workbook. All of the indicators are annual and by country:
@@ -27,7 +30,54 @@ download.file(
   oecd_tenure_path)
 ```
 
-Let's focus on `HM1.3.A4` first. This will allow us to focus on a particular income bracket and see how its housing tenures are changing.
+# Tenure mode across all incomes
+
+```{r}
+#| label: import-tenure-all
+
+# import the id cols separately
+oecd_tenure_path |>
+  read_excel(sheet = "HM1.3.A1", range = "A4:B209", na = "..",
+    col_types = "text") |>
+  fill(Country, .direction = "down") |>
+  rename(tenure_mode = "...2") ->
+tenure_all_header
+  
+# now import the spreadsheet body, bolt the id cols on and pivot
+oecd_tenure_path |>
+  read_excel(sheet = "HM1.3.A1", range = "C4:N209", na = "..",
+    col_types = "numeric") |>
+  bind_cols(x = tenure_all_header, y = _) |>
+  pivot_longer(cols = where(is.numeric), names_to = "year",
+    values_to = "value") ->
+tenure_all
+```
+
+```{r}
+#| label: vis-tenure-all
+tenure_all |>
+  write_csv(here("data", "tenure-allincomes.csv")) |>
+  mutate(year = ymd(paste0(year, "-01-01"))) |>
+  ggplot() +
+    aes(x = year, y = value, fill = tenure_mode) +
+    geom_area(alpha = 0.75) +
+    facet_wrap(vars(Country)) +
+    scale_fill_brewer(palette = "Set1") +
+    scale_y_continuous(labels = scales::label_percent(scale = 1)) +
+    theme_minimal() +
+    labs(title = "Mode of tenure")
+
+tenure_all |>
+  filter(year < 2021, !is.na(value)) |>
+  arrange(Country, year, tenure_mode) |>
+  pivot_wider(names_from = tenure_mode, values_from = value) |>
+  write_csv(here("data", "tenure-allincomes-wide.csv"))
+
+```
+
+# Tenure mode by income
+
+Let's look at `HM1.3.A4`. This will allow us to focus on a particular income bracket and see how its housing tenures are changing.
 
 This sheet needs some cleanup, as it has a grouped header (income quintile and then year). We'll import that separately and add the merged headers back in once we have the body.
 
@@ -70,6 +120,9 @@ oecd_tenure_path |>
     year = as.integer(year),
     value = value / 100) ->
 tenure_by_income
+
+tenure_by_income |>
+  write_csv(here("data", "tenure-byincome.csv"))
 ```
 
 Let's focus in on the bottom quintile:
@@ -125,7 +178,6 @@ In Australia:
 - For middle and higher income, outright ownership has been declining over the last decade, boosting mortgage rates. I think this reflects lengthening mortgages.
 - Outright ownership has not changed in the poorest 20%. I think these are retirees who enter this income group when they retire (ie. people are in other income groups when they’re paying off the mortgage, then they go to low income after it’s paid off)
 
-
 ```{r}
 #| label: tenure-correlations
 tenure_by_income |>
@@ -148,12 +200,13 @@ tenure_correlations |>
     names_to = "tenure_y",
     values_to = "corr") ->
 tenure_corr_tidy
+
+tenure_by_income |>
+  write_csv(here("data", "tenure-income-correlations.csv"))
 ```
 
 ```{r}
 #| label: tenure-correlations-vis
-
-dir.create(here("out"), showWarnings = FALSE)
 
 tenure_corr_tidy |>
   pull(country) |>
@@ -170,7 +223,8 @@ tenure_corr_tidy |>
     geom_point() +
     facet_grid(rows = vars(country), cols = vars(income)) +
     # facet_wrap(vars(income), ncol = 2) +
-    scale_x_discrete(position = "top") +
+    scale_x_discrete(position = "top", labels = scales::label_wrap(15)) +
+    scale_y_discrete(labels = scales::label_wrap(15)) +
     scale_colour_fermenter(type = "div", palette = "RdBu", direction = 1,
       limits = c(-1, 1), breaks = seq(-1, 1, by = 0.2)) +
     guides(size = guide_none()) +
@@ -179,8 +233,11 @@ tenure_corr_tidy |>
       legend.direction = "horizontal",
       legend.position = "top",
       legend.key.width = unit(0.075, "npc"),
-      axis.text.x = element_text(angle = 45),
-      panel.border = element_rect(colour = "grey", fill = NA)) ->
+      axis.text.x = element_text(angle = 90),
+      panel.border = element_rect(colour = "grey", fill = NA)) +
+    labs(
+      x = NULL, y = NULL, colour = "Correlation"
+    ) ->
 tenure_corr_plot
 
 ggsave(
@@ -199,8 +256,6 @@ Now I feel like we're getting toward a place where we can compare countries. Per
 
 ```{r}
 #| label: network-plots
-
-dir.create(here("out", "tenure-by-country-and-income"), showWarnings = FALSE)
 
 # create and save a network plot for each country and income bracket
 tenure_correlations |>
